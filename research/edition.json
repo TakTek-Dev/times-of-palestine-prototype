@@ -1,0 +1,1885 @@
+{
+ "now": "2026-11-11T18:00:00+02:00",
+ "sections": {
+  "gaza": {
+   "name": "Gaza",
+   "line": "The Strip, street by street: aid, health, schools and the people rebuilding a day at a time."
+  },
+  "west-bank": {
+   "name": "West Bank",
+   "line": "Nablus to Hebron: land, harvest, roads and the towns between them."
+  },
+  "jerusalem": {
+   "name": "Jerusalem",
+   "line": "The Old City and the neighbourhoods around it."
+  },
+  "diaspora": {
+   "name": "Diaspora",
+   "line": "Palestinians abroad: camps, culture, sport and the long way home."
+  },
+  "solidarity": {
+   "name": "Solidarity",
+   "line": "Marches, campaigns, courts and what governments say and do."
+  },
+  "analysis": {
+   "name": "Analysis",
+   "line": "The context behind the day: explainers and the longer view."
+  }
+ },
+ "stories": [
+  {
+   "id": "who-was-yasser-arafat-22nd-anniversary",
+   "section": "analysis",
+   "tag": "Anniversary",
+   "place": "Ramallah",
+   "title": "Who was Yasser Arafat, and how did Palestinians mark the 22nd anniversary of his death this week?",
+   "short": "Who was Yasser Arafat?",
+   "kind": "ask",
+   "gist": "The PLO chairman and first Palestinian president died on 11 November 2004; a wreath was laid at his Ramallah tomb on Wednesday.",
+   "body": [
+    "Palestinian Vice-President Hussein al-Sheikh laid a wreath at the tomb of Yasser Arafat in the presidential compound in Ramallah on Wednesday 11 November, on behalf of President Mahmoud Abbas, WAFA reported. It was the 22nd anniversary of Arafat's death. Al-Sheikh recited verses from the Quran at the graveside. The ceremony is held every year at the mausoleum inside the compound known as the Muqata'a.",
+    "Arafat, known as Abu Ammar, was born in 1929. He was among the founders of the Fatah movement in the late 1950s and became chairman of the Palestine Liberation Organization in February 1969, a post he held until his death. In 1974 he addressed the UN General Assembly, where he spoke of carrying an olive branch and a freedom fighter's gun. In November 1988 the PLO under his leadership declared the State of Palestine.",
+    "He signed the Oslo accords with Israel in 1993 and shared the 1994 Nobel Peace Prize with Yitzhak Rabin and Shimon Peres. That year he returned from exile and settled in Gaza City as head of the new Palestinian Authority. The peace process stalled; during the second intifada the Israeli army confined him to his Ramallah compound for more than two years.",
+    "He died on 11 November 2004 in a military hospital at Clamart, near Paris, aged 75. The cause has been disputed ever since. Russian and French investigations found no evidence of foul play, while a Swiss team concluded that he had been poisoned with radioactive polonium, according to the summary of the inquiries on Wikipedia. He is buried in a mausoleum inside the compound where he spent his last years.",
+    "In a statement the day before the anniversary, Abbas said honouring Arafat meant holding to the principles he died for: self-determination, the return of refugees, and an independent state on the 1967 lines with East Jerusalem as its capital. He referred to Arafat's death as an assassination, the official Palestinian position, and said it had not broken the will of the Palestinian people.",
+    "Abbas used the occasion to address present politics. He called national unity an urgent priority, described the PLO as the sole legitimate representative of the Palestinian people, and urged all factions to end the division under the formula of one authority, one law and one legitimate weapon. He also pledged to press for aid to enter Gaza, for reconstruction and against displacement. Presidential and legislative elections that had been planned were postponed in October, according to a chronology of the year's events."
+   ],
+   "subheads": {
+    "1": "From Fatah to the United Nations",
+    "2": "Oslo, return and siege",
+    "4": "What Abbas said"
+   },
+   "date": "2026-11-11T11:53:00+02:00",
+   "age": "a-now",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176855"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176835"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Yasser_Arafat"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Yasser_Arafat_Mausoleum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yasser_Arafat_Mausoleum.jpg",
+    "credit": "Travel 2 Palestine / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "caption": "Archive: honour guards at the Yasser Arafat mausoleum in Ramallah, January 2015."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "red-crescent-warns-gaza-health-after-floods",
+   "section": "gaza",
+   "tag": "Health",
+   "place": "Gaza Strip",
+   "title": "Red Crescent official warns of rising infections in Gaza as sewage mixes with floodwater in camps",
+   "short": "Red Crescent: infections rising after Gaza floods",
+   "kind": "say",
+   "gist": "The Red Crescent's Bashar Murad says about 70,000 tents were flooded and respiratory infections and meningitis cases are increasing.",
+   "body": [
+    "The Palestine Red Crescent Society's director of health programmes in Gaza, Bashar Murad, warned on Wednesday 11 November that the health situation in the Strip is deteriorating after last week's storm. Speaking to Voice of Palestine radio in remarks carried by WAFA, he said about 70,000 tents had been flooded, affecting tens of thousands of people, and that rainwater mixing with sewage inside displacement camps threatens to spread disease.",
+    "Murad said clinics are already seeing more upper respiratory tract infections and more cases of meningitis as temperatures fall and families go without winter clothing or any means of heating. He described a severe shortage of medicines, medical supplies and heating equipment. His warning matches a note in OCHA's storm report that health partners expect higher caseloads and are short of fever medicines, antibiotics and treatments for vomiting and diarrhoea.",
+    "Diagnosis is a separate problem. According to Murad there is not a single MRI machine in Gaza and only a limited number of CT scanners. Laboratory solutions and supplies are running short and several laboratories have stopped operating altogether. That leaves doctors unable to run basic tests, he said, which is particularly dangerous for people with chronic illnesses whose treatment depends on regular monitoring, and it puts those patients' lives at risk.",
+    "Palestinian Health Minister Majed Abu Ramadan issued an urgent appeal on 7 November as the first tents went under water. He warned that cold, damp and overcrowded shelters raise the risk of influenza and pneumonia among infants, older people and patients, while accumulated waste and sewage contamination encourage rodents and insects and the spread of water-borne infections. Malnutrition, he added, weakens people's ability to fight off illness, especially children and pregnant and breastfeeding women.",
+    "The storm damaged the health system directly. OCHA reported water entering departments at Nasser Medical Complex and at facilities run by UK-Med, flooding in a hospital basement that houses paediatric, pharmacy and radiology units, and damage to two clinics and two medical points. Médecins du Monde recorded a 54 per cent drop in consultations because flooded roads kept staff from reaching work. Surveillance has been stepped up for acute watery diarrhoea, respiratory and skin infections and acute jaundice syndrome.",
+    "Some outside help was announced this week. On 10 November Japan signed a grant of 294 million yen, about $1.97 million, with the World Health Organization to set up a coordination cell for emergency medical teams inside the health ministry's operations centre in Gaza City and to train and equip 100 local team members. Abu Ramadan called the first rains a serious warning of what further storms could bring to families already at the limit."
+   ],
+   "subheads": {
+    "2": "No MRI, few scanners",
+    "4": "Clinics under water"
+   },
+   "date": "2026-11-11T10:33:00+02:00",
+   "age": "a-now",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176853"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176718"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-heavy-rains-gaza-strip-8-november-2026"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Evacuation_of_Palestinian_patients_from_Al-Aqsa_Martyrs_Hospital_in_Deir_al-Balah_after_Israeli_army_orders_to_evacuate_eastern_Deir_el-Balah%2C_Gaza_Strip.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Evacuation_of_Palestinian_patients_from_Al-Aqsa_Martyrs_Hospital_in_Deir_al-Balah_after_Israeli_army_orders_to_evacuate_eastern_Deir_el-Balah,_Gaza_Strip.jpg",
+    "credit": "Ashraf Amra, UNRWA / Wikimedia Commons",
+    "license": "CC BY-SA 3.0 IGO",
+    "caption": "Archive: patients are moved from Al-Aqsa Martyrs Hospital in Deir al-Balah, August 2024."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "lubban-sharqiya-scrapyard-fire-100-vehicles",
+   "section": "west-bank",
+   "tag": "Settler violence",
+   "place": "Al-Lubban ash-Sharqiya",
+   "title": "Settlers set fire to a scrapyard in al-Lubban ash-Sharqiya, burning more than 100 vehicles and olive trees",
+   "short": "More than 100 vehicles burned in village south of Nablus",
+   "kind": "say",
+   "gist": "WAFA reports that dozens of settlers torched a scrapyard, cars and olive trees in al-Lubban ash-Sharqiya; losses exceed one million shekels.",
+   "body": [
+    "Dozens of Israeli settlers attacked the village of al-Lubban ash-Sharqiya, south of Nablus, and set fire to a vehicle scrapyard, burning more than 100 vehicles, WAFA reported on Wednesday 11 November. The attack took place in the al-Qanater area on the northern edge of the village. The fire also consumed dozens of olive trees and storage buildings, according to the agency's account from the scene.",
+    "The flames spread beyond the yard. About 10 cars belonging to residents and parked beside their homes were burned, along with several vehicles at a nearby repair workshop. Street-light poles caught fire, cutting electricity to the area. The head of the village council told WAFA that losses were estimated at more than one million shekels, a figure that has not been independently assessed.",
+    "Hundreds of residents tried to hold the fire back with basic tools before firefighters arrived. Five Civil Defense crews, from Salfit, Aqraba, Burin, Sinjil and Abwein, then worked for more than five hours to put it out. Several people suffered from smoke inhalation from the burning vehicles and were treated on the spot by Palestine Red Crescent teams from Salfit working with the village's own volunteers.",
+    "WAFA said more than 10 Israeli military vehicles entered the village and drove towards the site of the fire. The report does not mention any arrests. There was no immediate public comment from the Israeli military in the reports seen by this newspaper, and the identity of the attackers has not been established beyond the description given by residents and local officials.",
+    "Al-Lubban ash-Sharqiya sits beside Route 60, the main north-south road through the West Bank, and close to several settlements. The attack fits a pattern documented by the UN: OCHA recorded 457 settler attacks causing casualties or damage across the West Bank in October, the highest monthly total since it began keeping records in 2006. Two days earlier, WAFA reported, settlers set fire to heavy machinery and vehicles at an industrial zone south of Nablus.",
+    "The Wall and Settlement Resistance Commission, a Palestinian Authority body, says Nablus governorate has seen more attacks on farmers this olive season than any other, 230 between 1 October and 6 November. The commission and UN human rights officials have repeatedly said that such attacks are rarely prosecuted. UN Secretary-General António Guterres, speaking in Antalya on 10 November, called the situation in the West Bank absolutely unacceptable."
+   ],
+   "subheads": {
+    "2": "Five hours to put out",
+    "4": "A road, and a pattern"
+   },
+   "date": "2026-11-11T10:10:00+02:00",
+   "age": "a-now",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176851"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176839"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Al-Lubban_ash-Sharqiya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Al-Lubban_ash-Sharqiya.jpg",
+    "credit": "أمين (Ameen) / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "caption": "Archive: houses in al-Lubban ash-Sharqiya, south of Nablus, June 2022."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "london-palestine-film-festival-2026-opens",
+   "section": "diaspora",
+   "tag": "Film",
+   "place": "London",
+   "title": "London Palestine Film Festival opens Friday with 27 screenings, from Gaza testimony to a Jenin projectionist",
+   "short": "London Palestine Film Festival opens at the Barbican",
+   "kind": "say",
+   "gist": "The festival runs 13-27 November across London venues, opening at the Barbican with the UK premiere of 'Who Is Still Alive'.",
+   "body": [
+    "The London Palestine Film Festival opens on Friday 13 November at the Barbican with the UK premiere of 'Who Is Still Alive', a documentary by the Swiss director Nicolas Wadimoff built from the accounts of nine people who escaped the destruction of Gaza. The film is Switzerland's submission for the 2027 Academy Awards, according to the Barbican's programme. The opening-night screening, which is followed by a discussion, was listed as sold out; a second screening is scheduled for Saturday afternoon.",
+    "The festival runs until 27 November. Its website lists more than 27 screenings at venues including the Barbican, the Institute of Contemporary Arts, Cine Lumière, the Rio Cinema, Riverside Studios, the Garden Cinema, Bertha DocHouse and three Curzon cinemas, with one event at the Ropetackle Arts Centre in Shoreham, West Sussex. The organisers, a community interest company, describe their aim as bringing filmmakers, scholars and the public together around Palestinian cinema, culture and politics.",
+    "At the Barbican, the week's programme moves from Gaza to the West Bank and Lebanon. 'From Ground Zero+', on 16 November, gathers five short films from Gaza, three of them UK premieres. 'Habibi Hussein', the first feature by Alex Bakri, on 18 November, follows the last projectionist of the old cinema in Jenin as he tries to keep his craft alive. Lana Daher's 'Do You Love Me', made entirely from archive footage of Beirut, screens on 19 November.",
+    "Elsewhere the programme ranges widely. 'Who Killed Alex Odeh?', having its UK premiere at the ICA, revisits the 1985 killing of a Palestinian American community leader in California. 'A Man Fell' is set in the former Gaza Hospital building in Sabra, Beirut, now home to a refugee community. 'Life Support' follows foreign doctors working in Gaza, and 'Madleens' looks at the flotilla movement of the same name. There is also a documentary on the life of Edward Said.",
+    "The festival pays tribute this year to Mohammad Bakri, the Palestinian actor and director who died in 2025, with screenings at the Rio Cinema on 19 November and at Riverside Studios on 20 November. Maha Haj's 2022 comedy-drama 'Mediterranean Fever' is also on the bill. The closing film, at Curzon Mayfair on 27 November, is 'Conversation with the Sea', about a Palestinian father ordered to pay a social security debt left by his son, who drowned in the Red Sea.",
+    "London is not the only British city with a Palestinian film season this month; Leeds holds its own festival from 13 November. For the Palestinian community in Britain the London event is an annual meeting point. For filmmakers in Gaza, where the UN's special rapporteur said in October that about 150 media centres and offices have been destroyed, a festival screening abroad is one of the ways new work still reaches an audience."
+   ],
+   "subheads": {
+    "2": "A week at the Barbican",
+    "4": "A tribute to Mohammad Bakri"
+   },
+   "date": "2026-11-11T09:00:00+02:00",
+   "age": "a-now",
+   "sources": [
+    {
+     "name": "London Palestine Film Festival",
+     "url": "https://www.palestinefilm.org.uk/"
+    },
+    {
+     "name": "Barbican",
+     "url": "https://www.barbican.org.uk/whats-on/2026/series/london-palestine-film-festival-2026"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/10/1168685"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Barbican_Centre%2C_Barbican%2C_EC2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Barbican_Centre,_Barbican,_EC2.jpg",
+    "credit": "Ewan-M / Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "caption": "Archive: the Barbican Centre in the City of London, January 2009."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "qalqilya-protest-unrwa-hospital-closure",
+   "section": "west-bank",
+   "tag": "Health",
+   "place": "Qalqilya",
+   "title": "Qalqilya residents rally in hospital courtyard against UNRWA plan to close the 63-bed facility",
+   "short": "Qalqilya protests plan to close UNRWA hospital",
+   "kind": "say",
+   "gist": "Protesters want UNRWA to keep its Qalqilya hospital, open since 1951 and serving more than 17,000 refugee families, and reopen two wards.",
+   "body": [
+    "Officials, refugee committee members and residents gathered on Tuesday 10 November in the courtyard of the UNRWA hospital in Qalqilya to protest against the agency's decision to close it. The hospital, opened in 1951, has 63 beds and serves more than 17,000 refugee families in the governorate, according to figures reported by WAFA. The demonstration brought together representatives of official institutions, the Popular Committee for Refugee Services and the local community.",
+    "Mohammad Khader, speaking for the governor of Qalqilya, called the hospital a vital health and humanitarian institution and said the responsibility for keeping it open could not be set aside for financial or administrative reasons. The protesters' demands were specific: reverse the closure, reopen the internal medicine and maternity departments, and protect the jobs and rights of the staff who work there.",
+    "The wards have been closing in stages. UNRWA shut the internal medicine department in December 2025 and the maternity department in March 2026 as part of cost-cutting measures, WAFA reported. Abdul Rahim Jabr, who heads the Popular Committee for Refugee Services, said health care is a right of refugees, not a favour, and that peaceful protests would continue until the demands are met.",
+    "The rally was the second in a fortnight. On 27 October the PLO's Refugee Affairs Department and camp committees held a demonstration in Balata refugee camp, in Nablus, against service cuts, staff dismissals and the Qalqilya plan. Nisreen Thawqan, the department's director for the northern West Bank, said then that donors would be asked to cover a shortfall of about $70 million in UNRWA's budget and to find a further $3 million to keep the hospital running.",
+    "UNRWA has not publicly detailed its plans for the site in the reports available, and the agency's acting leadership is under pressure from several directions. The PLO Executive Committee said on 25 October that it rejected any large-scale layoffs and urged the acting commissioner-general to tour donor capitals. On 6 November UN Secretary-General António Guterres reaffirmed his full support for the agency and called for its work to be fully funded.",
+    "Access to care across the West Bank is already strained. The World Health Organization counts 872 functioning health service points, of which 490 work only partially and 22 others are out of service, according to OCHA's latest report, and mobile clinics run by aid groups cover 227 locations that have no fixed facility. For refugees in Qalqilya, speakers at the protest said, the question is whether a hospital that has treated them for 75 years will still be there next year."
+   ],
+   "subheads": {
+    "2": "Two wards already shut",
+    "4": "A $70 million gap"
+   },
+   "date": "2026-11-10T20:24:00+02:00",
+   "age": "a-now",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176843"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176395"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176285"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/%D7%A7%D7%9C%D7%A7%D7%99%D7%9C%D7%99%D7%94.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%D7%A7%D7%9C%D7%A7%D7%99%D7%9C%D7%99%D7%94.jpg",
+    "credit": "Ærøzz / Wikimedia Commons",
+    "license": "CC0",
+    "caption": "Archive: the city of Qalqilya seen from a distance, July 2024."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "old-city-youth-club-and-centre-closed",
+   "section": "jerusalem",
+   "tag": "Civil society",
+   "place": "Old City",
+   "title": "Two Old City institutions shut in five days: a sports club closed and Burj al-Laqlaq sealed again",
+   "short": "Two Old City youth institutions closed in five days",
+   "kind": "say",
+   "gist": "Israeli police closed the Sons of Jerusalem Club on 5 November and renewed a six-month closure of the Burj al-Laqlaq society on 10 November.",
+   "body": [
+    "Israeli authorities closed two Palestinian community institutions inside the walls of Jerusalem's Old City within five days this month. On Thursday 5 November the Sons of Jerusalem Club, in the Sa'diya neighbourhood, was shut under an order issued by National Security Minister Itamar Ben-Gvir, the Palestinian Authority's Jerusalem Governorate said. On Tuesday 10 November police raided the Burj al-Laqlaq Community Society and posted a notice closing it for six months, WAFA reported.",
+    "The Sons of Jerusalem Club is one of the Old City's long-established sports and social institutions, according to the governorate, and gives young residents a place to train, meet and organise activities. The governorate described the closure as part of a policy of restricting Palestinian national, sports and social bodies in the city. No public explanation of the order from the Israeli side was included in the reports available.",
+    "Burj al-Laqlaq takes its name from the Stork Tower at the north-eastern corner of the city wall. The society that operates there runs educational, sports and cultural programmes for children and teenagers, along with social activities and tutoring. According to the Wadi Hilweh Information Center, a local monitoring group, the new order covers all of the society's facilities with one exception: its kindergarten may stay open.",
+    "This is the second closure of the year for the society. Israeli forces first raided its premises on 17 February 2026 and ordered it shut for six months. It reopened on 13 August, which means it had been operating for less than three months when police returned on 10 November with a second six-month order. If the order runs its full term, the centre will be closed until May.",
+    "For young people in the Old City the two decisions remove much of the organised activity within walking distance. Athletes from Jerusalem clubs have been prominent in recent Palestinian sporting results: the delegation that won eight medals at a kickboxing World Cup in Tashkent in October included members of the Aswar Beit al-Maqdis Club and the Al-Bustan Silwan Association, WAFA reported at the time.",
+    "Israel has in the past closed Palestinian institutions in East Jerusalem on the grounds that they are linked to the Palestinian Authority, whose activity in the city it prohibits. Palestinians regard East Jerusalem as occupied territory and the closures as an attempt to hollow out communal life. The governorate said the latest measures narrow the spaces left to residents for sport, culture and social life."
+   ],
+   "subheads": {
+    "2": "A centre at the Stork Tower",
+    "3": "Open for less than three months"
+   },
+   "date": "2026-11-10T13:34:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176832"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176676"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176071"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Laklak_tower_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Laklak_tower_-_panoramio.jpg",
+    "credit": "Mujaddara / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "caption": "Archive: Burj al-Laqlaq, the Stork Tower, at the north-eastern corner of Jerusalem's Old City wall, April 2011."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "why-are-winter-tents-stuck-outside-gaza",
+   "section": "gaza",
+   "tag": "Shelter",
+   "place": "Gaza Strip",
+   "title": "Why are 150,000 winter tents sitting outside Gaza while families sleep in flooded shelters?",
+   "short": "Why are 150,000 tents still waiting outside Gaza?",
+   "kind": "ask",
+   "gist": "Aid agencies say entry restrictions, slow approvals and a $186.5 million funding gap keep shelter supplies outside while stocks inside run out.",
+   "body": [
+    "The numbers do not add up for anyone standing in a flooded camp. According to OCHA, more than 150,000 tents bought by aid organisations and governments are stored outside Gaza and ready to move, including about 117,000 held by the Egyptian Relief Committee in Al-Arish, along with 300,000 tarpaulins and 500,000 blankets. Inside the Strip, the Shelter Cluster counted only about 2,800 tents and 76,000 tarpaulins in stock on 1 November, a week before the first storm arrived.",
+    "Need is on a different scale. The cluster estimates that Gaza requires about 121,000 tents, 561,000 tarpaulins, 57,000 emergency shelter kits and 1.7 million mattresses this winter. Not one emergency shelter kit is available, OCHA says, because the kits are built around timber and Israeli authorities continue to reject its entry. Only 4,993 mattresses were in stock. The Palestinian minister of social development, Samah Hamad, puts the requirement higher still, at about 200,000 tents and 200,000 tarpaulins.",
+    "Three obstacles recur in the UN reporting. The first is permission: OCHA says preparations were constrained by Israeli restrictions on supplies and equipment, and lists approvals for shelter items, engine oil, spare parts and heavy machinery as the most urgent need. Hamad told a press conference in Ramallah on 9 November that about 30 per cent of relief and shelter items allocated for the response were stranded at crossings, and that materials available this winter amount to a tenth of previous years' levels.",
+    "The second obstacle is money. The winter plan costs US$267.9 million and, even counting goods already on order, is short by US$186.5 million. The third is time. Agencies have about 59,000 tents and 703,000 tarpaulins under procurement, but OCHA warns that long lead times and approval delays mean much of this may not arrive until the second half of winter. Humanitarian cargo ready to ship has itself been shrinking because of funding constraints, the Logistics Cluster reports.",
+    "There is also a shortage of ground to pitch tents on. OCHA notes that Israeli restrictions on access to large parts of Gaza limit families' ability to move to safer areas, and Hamad said there is not enough suitable land to open new sites that meet minimum standards. About 950,000 people live in displacement sites at medium or high flood risk, according to a shelter assessment cited by the United Nations in its daily briefings in late October.",
+    "In the meantime the response is improvised. In the week to 2 November shelter partners reached 13,316 households with items including 791 tents, 5,496 winter clothing kits and 56,389 plastic sheets, and site teams have placed more than 135,000 sandbags since September. Aid groups say this buys days, not a season, and that the decisive step remains opening the crossings to the stock that has already been paid for."
+   ],
+   "subheads": {
+    "1": "The gap in numbers",
+    "2": "Permission, money and time",
+    "4": "Nowhere safe to pitch"
+   },
+   "date": "2026-11-09T16:09:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-heavy-rains-gaza-strip-8-november-2026"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176793"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/1_December_2025%2C_Gaza%2C_Palestine._UK-funded_tents_arrive_in_Gaza_-_54958051832.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:1_December_2025,_Gaza,_Palestine._UK-funded_tents_arrive_in_Gaza_-_54958051832.jpg",
+    "credit": "Foreign, Commonwealth & Development Office / Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "caption": "Archive: a baled family tent marked UNICEF and UK aid after delivery to Gaza, 1 December 2025."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "deir-al-balah-sand-cliff-collapse-tents",
+   "section": "gaza",
+   "tag": "Displacement",
+   "place": "Deir al-Balah",
+   "title": "Five people, three of them children, die as rain-soaked sand cliff collapses on tents in Deir al-Balah",
+   "short": "Sand cliff collapse kills five in Deir al-Balah camp",
+   "kind": "say",
+   "gist": "A sand cliff loosened by rain fell on tents at a Deir al-Balah displacement site on 8 November, killing five people including three children.",
+   "body": [
+    "A steep bank of sand collapsed onto tents sheltering displaced families in Deir al-Balah, in central Gaza, on the evening of Sunday 8 November, killing five people. WAFA, quoting rescue teams, said the first body recovered from under the sand was that of a woman, followed by four more victims, three of them children. The agency named the site as the Ard El-Rebat displacement camp and said five injured people were pulled out alive while the search went on.",
+    "Accounts of the toll differ slightly, as is common in the first hours after such an incident. OCHA, citing Civil Defense, located the collapse at Al Berka Reservoir west of Deir al-Balah and reported five dead, three children and two women, with one person injured. Speaking in New York on Monday, UN deputy spokesperson Farhan Haq referred to at least three children and one woman killed. Palestinian Social Development Minister Samah Hamad later gave five as the final figure.",
+    "The collapse came on the third day of the first major storm of the season. OCHA said the rain had already destroyed more than 6,000 family shelters across Gaza and that an infant had drowned at another displacement site. Because large parts of the Strip are off limits to Palestinians, the UN office noted, families have few options for moving voluntarily to safer and less flood-prone ground, and many remain camped on slopes, in low basins or beside damaged buildings.",
+    "At a joint press conference in Ramallah on 9 November, Hamad and the UN humanitarian coordinator Ramiz Alakbarov warned that winter threatens hundreds of thousands of displaced families. Hamad said about 2.1 million people in Gaza need winter protection, that more than 1,600 displacement sites face growing risks from pooling rainwater and broken sewers, and that roughly 4,000 buildings are at risk of collapse. She said at least 19 people, including children, died of hypothermia over the previous two winters.",
+    "Haq told reporters that Israeli restrictions were forcing aid workers to respond with what he called wholly inadequate equipment and shelter supplies. He relayed Alakbarov's appeal for the removal of unnecessary restrictions and delays on dewatering pumps, heavy machinery, tents, tarpaulins, blankets and winter clothing. Before the storm, a debris working group had reinforced about 130 vulnerable sites with more than 100,000 tons of rubble, according to OCHA, but hundreds of other sites had no such protection."
+   ],
+   "subheads": {
+    "1": "Differing counts",
+    "3": "A warning from Ramallah"
+   },
+   "date": "2026-11-08T21:17:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176754"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-heavy-rains-gaza-strip-8-november-2026"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176814"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/A_displaced_girl_stands_in_front_of_her_tent_in_Deir_el-Balah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:A_displaced_girl_stands_in_front_of_her_tent_in_Deir_el-Balah.jpg",
+    "credit": "Ashraf Amra, UNRWA / Wikimedia Commons",
+    "license": "CC BY-SA 3.0 IGO",
+    "caption": "Archive: a displaced girl outside her family's tent in Deir al-Balah, August 2024."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "masafer-yatta-teachers-detained-schools-raided",
+   "section": "west-bank",
+   "tag": "Education",
+   "place": "Masafer Yatta",
+   "title": "In Masafer Yatta, ten teachers held for five hours on the way home and a school raided a week later",
+   "short": "Masafer Yatta: teachers detained, school raided",
+   "kind": "say",
+   "gist": "The UN says ten Jinba school teachers were detained for about five hours on 1 November; a teacher was arrested at Al-Fakhit school on 8 November.",
+   "body": [
+    "Israeli forces detained ten teachers from Jinba Basic School in Masafer Yatta, in the southern Hebron hills, for about five hours on 1 November as they were travelling home from work, OCHA reported. A week later, on Sunday 8 November, soldiers raided Al-Fakhit School in the same area and arrested a teacher, Mohammed Ahmed Hammad, who was taken to an unknown location, according to the local media activist Osama Makhamreh, quoted by WAFA.",
+    "Masafer Yatta is a cluster of small herding and farming hamlets that the Israeli army designates as Firing Zone 918, a live-fire training area. OCHA says movement restrictions there include the confiscation of vehicles and limits on coordinated access to the zone. For teachers and pupils alike, that turns the daily journey to and from school into the least predictable part of the day, and the detention on 1 November happened on exactly that journey.",
+    "The first week of November brought a series of incidents. On 5 November, Makhamreh told WAFA, soldiers raided homes and caves in Khirbet al-Tabban and two neighbouring hamlets and seized a car and tractors, one of them belonging to the Masafer Yatta council, that had been used to carry animal feed. On 9 November the army held exercises with tracked vehicles in Khirbet al-Fakhit, declared the area a closed military zone and kept residents out.",
+    "Water is a second pressure point. OCHA says emergency water trucking remains suspended in four Masafer Yatta communities, affecting 975 people, and that six other communities receive reduced deliveries because of movement restrictions and settler attacks. During the Hebron operation in late October the army also cut off villages near Masafer Yatta, and olive harvest access near settlements in the governorate was suspended.",
+    "The demolitions of recent months form the background. A chronology of the year compiled on Wikipedia from press reports records that Israel demolished the hamlet of Al-Tabban on 2 September, citing a Supreme Court ruling on Firing Zone 918, and carried out further demolitions in Jinba on 23 September. Residents and Israeli and international rights groups have argued for years that the firing-zone designation is being used to remove the communities.",
+    "Settler attacks add to the army's measures. On 10 November, WAFA reported, armed settlers drove a family out of its olive grove in Wadi Ma'in in Masafer Yatta and took the crop and equipment. Education partners working across the West Bank reached 2,840 pupils with emergency preparedness and explosive-hazard sessions in the last week of October, OCHA said. In Jinba and Al-Fakhit, the more immediate question is whether the teachers arrive."
+   ],
+   "subheads": {
+    "1": "Schools inside a firing zone",
+    "3": "Water by the truckload",
+    "4": "A year of demolitions"
+   },
+   "date": "2026-11-08T16:25:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176735"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2026_in_Palestine"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Al-Fakhit_village_school%2C_Masafer_Yatta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Al-Fakhit_village_school,_Masafer_Yatta.jpg",
+    "credit": "Palestine Bal / Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "caption": "Archive: the school in Al-Fakhit village, Masafer Yatta, 2025."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "gaza-first-winter-storm-floods-displacement-tents",
+   "section": "gaza",
+   "tag": "Winter storm",
+   "place": "Gaza Strip",
+   "title": "First winter storm floods displacement sites across Gaza, damaging more than 23,000 family shelters",
+   "short": "First winter storm swamps Gaza's displacement sites",
+   "kind": "say",
+   "gist": "OCHA says rain from 6 November destroyed over 6,000 family shelters, damaged 17,400 more and left 3,900 households with none.",
+   "body": [
+    "Heavy rain and strong winds that began on the evening of 6 November flooded displacement sites in all five governorates of the Gaza Strip, according to a situation report published by the UN humanitarian office OCHA. Preliminary figures gathered by the Site Management Cluster up to midnight on 7 November recorded about 268 weather alerts affecting more than 26,000 households. Over 6,000 family shelters were reported destroyed and 17,400 damaged, and more than 3,900 households were left with no shelter at all.",
+    "OCHA estimates that about 65 per cent of Gaza's population, roughly 1.4 million people, still live in tents or makeshift shelters. Civil Defense said water reached 1.5 metres in some places on 7 November. Its emergency rooms logged 2,166 distress calls in a single day, but rescue teams could physically reach only 218 of them; most callers were given advice over the phone. Gaza Municipality received another 251 incident reports and pointed to wrecked drainage networks and a lack of pumps and heavy machinery.",
+    "The official Palestinian news agency WAFA reported that rainwater poured into thousands of tents pitched on low ground and that two people were injured in northern Gaza when the wall of a building already damaged by bombardment gave way. The agency put the number of tents in use across the Strip at about 270,000, with more than 400,000 displaced people living in places exposed to flooding or close to the shoreline. Aid partners have identified at least 4,000 buildings at high risk of collapse.",
+    "Services were hit as well. OCHA said at least 55 learning spaces serving about 55,000 children were affected, and classes were suspended in 20 that were damaged. Eight community kitchens halved their output on 7 November, which meant about 25,000 fewer meals that day, before returning to normal on 8 November. Water entered departments at Nasser Medical Complex, the basement of the Patient's Friends Benevolent Society Hospital was flooded, and several partners suspended mobile clinics for a day or more.",
+    "Relief teams installed 50,000 sandbags over two days, distributed winter clothes to 3,364 households in Khan Younis and Deir al-Balah, and operated 15 dewatering pumps. By 8 November heavy machinery was supporting 200 affected sites. OCHA nonetheless described partners as overwhelmed by appeals. It said stocks of tents, tarpaulins and blankets inside Gaza are nearly exhausted, while more than 150,000 tents, 300,000 tarpaulins and 500,000 blankets are waiting outside the territory.",
+    "The report lists three urgent needs: Israeli approval to bring in shelter items, engine oil, spare parts and heavy machinery; vacuum trucks, mobile pumps and hoses; and more humanitarian funding. Mine action teams added a separate warning that floodwater can uncover unexploded ordnance or carry it into areas previously considered clear. OCHA stressed that all its figures are preliminary and subject to verification as assessments continue across the affected sites."
+   ],
+   "subheads": {
+    "1": "Calls that could not be answered",
+    "3": "Schools, kitchens and clinics",
+    "4": "What is waiting outside"
+   },
+   "date": "2026-11-08T10:00:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-heavy-rains-gaza-strip-8-november-2026"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176712"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sewage_water_near_the_tents_of_displaced_people_in_Deir_el-Balah%2C_Gaza_Strip.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sewage_water_near_the_tents_of_displaced_people_in_Deir_el-Balah,_Gaza_Strip.jpg",
+    "credit": "Ashraf Amra, UNRWA / Wikimedia Commons",
+    "license": "CC BY-SA 3.0 IGO",
+    "caption": "Archive: standing sewage water beside the tents of displaced families in Deir al-Balah, August 2024. Not from this week's storm."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "solidarity-marches-stockholm-chicago-berlin-ports",
+   "section": "solidarity",
+   "tag": "Marches",
+   "place": "Stockholm",
+   "title": "From Stockholm's Odenplan to the Port of Elizabeth: five solidarity actions of the past three weeks",
+   "short": "Five solidarity actions, from Stockholm to New Jersey",
+   "kind": "list",
+   "gist": "Marches in Stockholm, Chicago, Berlin and Hanover, a port protest in New Jersey and a cross-country US convoy all called for an end to arms flows.",
+   "body": [
+    "Stockholm, 7 November. Hundreds of people gathered at Odenplan square on Saturday evening after a call from several civil society organisations, WAFA reported. They protested against Israeli attacks on Gaza, the West Bank and Lebanon and against violations of the ceasefire. Placards referred to children killed in Gaza, to schools and hospitals, and to food shortages. The demonstrators asked the Swedish government to suspend arms sales to Israel.",
+    "Chicago, reported 9 November. A march through the city brought together activists calling for an end to the war in Gaza and to US support for Israel, according to the agency's report, which did not give the exact date or a crowd estimate. Marchers carried Palestinian flags. The demonstration also took up the rights of immigrants in the United States, and speakers stressed the importance of sustained local organising to put pressure on the administration in Washington.",
+    "Berlin and Hanover, 25 October. Demonstrations were held in several German cities on the Sunday after Israel sealed the West Bank. Hundreds marched in Hanover with Palestinian flags and watermelon symbols, and hundreds more in Berlin, where speakers condemned what they called starvation policies in Gaza and the escalating violence in the West Bank. Participants called for an immediate end to the war and for the protection of civilians.",
+    "Port of Elizabeth, New Jersey, 1 November. Activists drove in procession through the port area to oppose the export and transfer of weapons to Israel and called for a boycott of the Israeli shipping line Zim. Organisers said the action was one of a series held that week at more than 100 ports in at least 22 countries, involving port workers and trade unions as well as campaigners. Those figures are the organisers' own.",
+    "Los Angeles to Washington, 17 to 26 October. A convoy of 42 people calling itself the 2026 Freedom Convoy USA set out from the Israeli consulate in Los Angeles on a ten-day drive across the country. Its route ran through Las Vegas, Albuquerque, Tulsa, St Louis and Chicago, among other stops. It planned to deliver a petition titled 'We the People' to congressional offices ahead of the 3 November midterm elections.",
+    "The convoy's participants included members of religious groups, former government employees and military veterans, WAFA reported. Their argument was framed around domestic priorities: money spent on military support for Israel, they said, should go to health care, housing, education and childcare. On election day itself President Donald Trump said in a television interview that annual US funding to Israel, about $3.8 billion, would end this year under an agreement with Benjamin Netanyahu.",
+    "The common thread in all five is arms. Whether in a Swedish square, an American port or a convoy crossing the Midwest, the demand addressed to governments was the same: stop supplying weapons. The crowds described in the reports were in the hundreds in Stockholm, Berlin and Hanover, far smaller than the mass marches of 2023 and 2024, but the actions were spread across at least three countries in three weeks."
+   ],
+   "subheads": {
+    "2": "Germany, the Sunday after the closure",
+    "3": "Ports and a convoy",
+    "6": "One demand"
+   },
+   "date": "2026-11-08T09:25:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176727"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176763"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176159"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Demonstrations_in_support_of_Palestine_in_Stockholm%2C_Oct_14_2024_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Demonstrations_in_support_of_Palestine_in_Stockholm,_Oct_14_2024_5.jpg",
+    "credit": "Frankie Fouganthin / Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "caption": "Archive: a demonstration in support of Palestine at Sergels torg, Stockholm, 14 October 2023. Not the November 2026 rally at Odenplan."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "olive-harvest-in-numbers-record-settler-attacks",
+   "section": "west-bank",
+   "tag": "Olive harvest",
+   "place": "Nablus",
+   "title": "The olive harvest in numbers: 377 settler attacks since September, more than any season on UN record",
+   "short": "Olive harvest in numbers: a record 377 settler attacks",
+   "kind": "list",
+   "gist": "OCHA counted 377 harvest-related settler attacks between 1 September and 2 November, more than in any previous olive season it has recorded.",
+   "body": [
+    "377. That is the number of olive-harvest-related attacks by Israeli settlers that the UN humanitarian office OCHA recorded across the West Bank between 1 September and 2 November, each one causing casualties, property damage or both. It is higher than the total for any previous harvest season in the office's records. For comparison, a group of UN experts said on 19 October that 178 such attacks were documented during the whole of the 2025 harvest, affecting 88 towns and villages.",
+    "457. OCHA logged that many settler attacks of all kinds in October up to the 31st, the highest monthly figure since the UN began documenting such incidents in 2006. In the week of 27 October to 2 November alone there were 64 attacks in 48 communities, against a weekly average of 53 for 2026. Fifty-eight Palestinians were injured that week, 43 of them by settlers and 15 by Israeli forces, and 44 of the injuries were linked to the harvest.",
+    "674. The Palestinian Authority's Wall and Settlement Resistance Commission uses a wider definition that also counts actions by soldiers. It documented 674 attacks on farmers and olive trees between 1 October and 6 November, 520 by settlers and 154 by Israeli forces. Nablus governorate recorded 230, Ramallah and al-Bireh 130 and Salfit 129, together almost three quarters of the total. The commission counted 407 attacks in the 2024 season and 333 in 2023.",
+    "2,974. That is the commission's estimate of olive trees damaged so far, and it says figures were unavailable for some incidents. It also lists 91 cases of olives being stolen, 37 thefts or confiscations of equipment, 76 physical assaults and 249 incidents of intimidation. One Palestinian died of wounds from settler gunfire sustained while harvesting, the commission said. Its figures are its own and are not directly comparable with OCHA's.",
+    "15. In Deir Ammar, west of Ramallah, access to groves near a settlement was limited to three days and to 15 farmers aged over 40, OCHA reported; an 82-year-old farmer there was assaulted. In Beit Iksa, near Jerusalem, farmers were forced out of their groves despite prior coordination with the army, and settlers reportedly picked about 30 trees. Eight of the week's 41 harvest incidents took place in Areas A and B, which are under Palestinian civil administration.",
+    "42. That is the age of Samar Zidan, who was picking olives with her husband and children west of Deir Istiya, in Salfit governorate, on 11 November when she was hit in the head by a stone thrown by settlers, according to local sources quoted by WAFA. Her injury was described as moderate. Residents say attacks in the area have increased since a herding outpost was set up nearby.",
+    "80 per cent. Aid groups have supplied harvesting tools and machinery in nearly 80 per cent of identified hotspots, OCHA says, and volunteers provide a protective presence in the groves. But the office concedes that in most places help reaches only a limited number of pickers, because of funding shortfalls, violence and Israeli restrictions. The UN experts warned that destroying a mature olive tree costs a family far more than one season's crop."
+   ],
+   "subheads": {
+    "2": "A wider Palestinian count",
+    "4": "Three days, fifteen farmers",
+    "6": "Tools and volunteers"
+   },
+   "date": "2026-11-07T19:23:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176721"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176856"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Olive_harvest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Olive_harvest.jpg",
+    "credit": "Orrling / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "caption": "Archive: Palestinian and Israeli volunteers harvest olives together in Qaffin, northern West Bank, October 2008."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "what-is-unrwa-why-cutting-services",
+   "section": "analysis",
+   "tag": "Refugees",
+   "place": "Nablus",
+   "title": "What is UNRWA, and why are refugees in the West Bank protesting against cuts to its services?",
+   "short": "What is UNRWA, and why is it cutting services?",
+   "kind": "ask",
+   "gist": "The UN agency for Palestine refugees faces a shortfall of about $70 million and is weighing layoffs and the closure of its Qalqilya hospital.",
+   "body": [
+    "UNRWA is the United Nations Relief and Works Agency for Palestine Refugees in the Near East. The General Assembly created it by Resolution 302 after the 1948 war to assist Palestinians who had lost their homes, and its mandate has been renewed ever since in the absence of a political settlement. It runs schools, clinics and relief programmes for registered refugees in Gaza, the West Bank including East Jerusalem, Jordan, Lebanon and Syria.",
+    "Unlike most UN bodies, UNRWA delivers services directly, and almost all of its staff are Palestinian teachers, doctors, nurses and sanitation workers. It depends on voluntary contributions from governments. That combination makes it sensitive to any drop in funding: when donors hold back, the effect is felt within weeks in classrooms and health centres, and in the salaries of its own employees.",
+    "That is the situation now. The PLO Executive Committee said on 25 October that about $70 million is needed urgently to meet immediate needs and pay staff salaries for November and December. It said the agency's management was considering large-scale layoffs, which it rejected, arguing that staff are the backbone of the agency and that dismissing them would not solve the crisis. It urged the acting commissioner-general to tour donor capitals.",
+    "The cuts are already visible in the West Bank. UNRWA closed the internal medicine ward of its hospital in Qalqilya in December 2025 and the maternity ward in March 2026, and has decided to close the 63-bed hospital altogether, according to WAFA. Refugee committees protested in Balata camp, in Nablus, on 27 October and in the hospital courtyard on 10 November. A PLO official put the cost of keeping the hospital open at an additional $3 million.",
+    "The agency is under pressure on other fronts too. In Gaza, OCHA reported in late 2025 that Israeli authorities were barring UNRWA from bringing aid in directly, even as its schools sheltered tens of thousands of displaced people. In the northern West Bank, tens of thousands of refugees remain displaced from the Jenin, Tulkarm and Nur Shams camps after Israeli military operations that began in early 2025; a UN inquiry put the figure at 34,176 in August.",
+    "Diplomatic support has not translated into money. UNESCO's executive board unanimously adopted a resolution in October supporting the continuity of UNRWA's education work, and on 6 November the UN secretary-general, António Guterres, reaffirmed his full commitment to defending the agency and called for it to be fully funded. The PLO has proposed a joint committee with the host countries to lead a funding campaign. Until donors respond, the choice in front of the agency is which services to stop."
+   ],
+   "subheads": {
+    "2": "A $70 million gap",
+    "3": "What has closed",
+    "5": "Support without funds"
+   },
+   "date": "2026-11-07T09:16:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176285"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176843"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176711"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Balata_Camp%2C_Nablus_%288480623135%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Balata_Camp,_Nablus_(8480623135).jpg",
+    "credit": "Alt-x / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "caption": "Archive: a street in Balata refugee camp, Nablus, April 2011."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "israel-deports-twelve-olive-harvest-volunteers",
+   "section": "solidarity",
+   "tag": "Olive harvest",
+   "place": "Kafr Ni'ma",
+   "title": "Israel orders deportation of 12 foreign volunteers detained while helping with olive harvest near Ramallah",
+   "short": "Israel to deport 12 olive-harvest volunteers",
+   "kind": "say",
+   "gist": "Seventeen people were detained in Kafr Ni'ma on 6 November; five Germans, four Italians, two Canadians and an American were ordered deported.",
+   "body": [
+    "Israeli authorities decided to deport 12 international volunteers who were detained on Friday 6 November while helping Palestinian farmers pick olives in the village of Kafr Ni'ma, west of Ramallah, according to the Faza'a campaign, which organises volunteers for the harvest. The group said a lawyer following the case had been told the activists would be removed on Saturday morning. They are five Germans, four Italians, two Canadians and one American.",
+    "Seventeen people were detained in all. Besides the 12 volunteers there were two foreign journalists and three Palestinians, one of them a woman. Faza'a said the three Palestinians were its Ramallah coordinator and two farmers, and that soldiers assaulted the farmers before taking them away. The detainees were first taken to a nearby military post, the campaign said in its statement.",
+    "The campaign's account, carried by WAFA, is that a group of settlers attacked the pickers near Jabal al-Risan, on the edge of the village, and held them by force, and that the army then detained those who had been attacked. There was no account of the incident from the Israeli military in the reports available. The same day, soldiers expelled foreign activists and journalists from a village north-east of Ramallah, the agency reported.",
+    "It was not the first such case this season. Faza'a said several foreign activists were detained in Masafer Yatta, south of Hebron, on 22 October and later deported. Israel's settler leadership said in early October that the defence minister, Israel Katz, had ordered a ban on pro-Palestinian activists assisting olive harvesters in the West Bank, according to a chronology of the year's events.",
+    "Faza'a condemned the deportations as an attempt to silence witnesses to settler attacks, to prevent violations from being documented and to obstruct international efforts to help farmers reach their land. It said it would continue its activities across the West Bank with Palestinian and international volunteers for the rest of the season, to support farmers and strengthen their presence on their land.",
+    "The UN describes the presence of volunteers as one of the few protective measures available. OCHA said this month that protection partners were supporting volunteer harvest campaigns and providing a protective presence, but that help reaches only a limited number of pickers. Volunteers have themselves been hurt: two Israeli solidarity activists were injured by settlers near Aqraba on 1 November, and a protective-presence volunteer was injured in Kafr Malik, the office reported."
+   ],
+   "subheads": {
+    "1": "Seventeen detained",
+    "3": "A pattern this season",
+    "5": "What volunteers are for"
+   },
+   "date": "2026-11-06T19:29:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176705"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176693"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Kafr_Ni%27ma2019.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kafr_Ni%27ma2019.JPG",
+    "credit": "יעקב (Yaakov) / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "caption": "Archive: the village of Kafr Ni'ma, west of Ramallah, seen from the east in February 2019."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "why-gaza-doctors-want-birth-defects-inquiry",
+   "section": "gaza",
+   "tag": "Maternal health",
+   "place": "Gaza Strip",
+   "title": "Why are doctors in Gaza asking for an independent inquiry into a rise in birth defects?",
+   "short": "Why do Gaza doctors want a birth-defects inquiry?",
+   "kind": "ask",
+   "gist": "Gaza recorded 260 congenital anomalies in nine months of 2026 against 184 in all of 2022, and doctors say the cause has not been established.",
+   "body": [
+    "A medical source in Gaza told WAFA on 6 November that 260 cases of congenital anomalies were recorded among newborns in the first nine months of 2026. That is already more than the 184 cases reported in the whole of 2022, the last full year before the war. The same source said 322 cases were recorded in 2025, an increase of 75 per cent on 2022, and asked that the trend be examined by outside specialists.",
+    "The source was careful about what the figures do and do not show. Raw case counts, the report notes, do not establish the rate of anomalies among all births and do not identify a cause. That caution is the reason for the request: the source called for an independent international scientific investigation, something beyond the capacity of a health system that, by the Red Crescent's account this week, currently struggles to run even basic laboratory tests.",
+    "Three possible factors were named for investigators to examine: malnutrition among mothers, exposure to environmental pollutants, and the disruption of antenatal care during the war. The conditions being recorded include cleft lip and palate, shortened upper limbs, umbilical hernias and ambiguous external genitalia that make it hard to determine a baby's sex at birth. One child may have more than one anomaly, the source said, so the number of affected babies may be lower than the case count.",
+    "Other data point to the strain on mothers and babies. OCHA's report of 5 November, citing the Health Cluster, says neonatal units in Gaza ran at 151 per cent occupancy in September and special care baby units at 199 per cent, and that nearly 63 per cent of deliveries were classed as high-risk. The cluster estimates that between 123 and 179 additional neonatal beds are needed in the last quarter of the year.",
+    "The environmental question is also open. In a statement on 6 November the Palestinian Environmental Quality Authority estimated that Gaza holds between 61 and 68 million tons of rubble, about four million tons of hazardous waste and at least 50,000 tons of asbestos, and that around 120,000 cubic metres of untreated wastewater is released every day. The authority's figures are its own estimates and have not been independently verified.",
+    "WAFA's report recalls that Human Rights Watch documented serious risks to pregnant women in Gaza in a report published on 28 January 2025, pointing to the blockade, the destruction of health facilities and shortages of food, water and medicine. Aid partners say they have bought postpartum kits and warming items for newborns this winter. Whether the rise in recorded anomalies reflects real change, better reporting or both is exactly what the doctors want an outside inquiry to settle."
+   ],
+   "subheads": {
+    "1": "What the numbers cannot show",
+    "3": "Wards past capacity",
+    "4": "Rubble, asbestos and wastewater"
+   },
+   "date": "2026-11-06T16:14:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176698"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176688"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_5523.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Images_of_war_23-25_from_Gaza,_by_Jaber_Badwen,_IMG_5523.jpg",
+    "credit": "Jaber Jehad Badwan / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "caption": "Archive: the damaged Indonesian Hospital in northern Gaza, February 2025."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "jerusalem-home-demolitions-six-cases-fortnight",
+   "section": "jerusalem",
+   "tag": "Demolitions",
+   "place": "East Jerusalem",
+   "title": "Six demolitions in two weeks: the East Jerusalem families who lost homes, some by their own hands",
+   "short": "Six Jerusalem demolitions in a fortnight, case by case",
+   "kind": "list",
+   "gist": "Between 25 October and 6 November at least six demolition cases were reported in and around East Jerusalem, four carried out by the owners.",
+   "body": [
+    "Beit Hanina, 25 October. Fawaz al-Rajabi demolished his own 60-square-metre house after receiving a written order, the Wadi Hilweh Information Center reported. The house was built 15 years ago and was home to al-Rajabi, his wife and their five children. He had already paid fines totalling 60,000 shekels for building without a permit. Owners who decline to demolish are billed for the municipality's bulldozers.",
+    "Silwan, 28 October. Musa al-Awar was made to pull down his house in the Ein al-Lawza area, south of the Old City, according to the Palestinian Authority's Jerusalem Governorate. Beit Hanina, 31 October. Jihad Mutawir demolished a building of two apartments, his own and his son's, in the al-Marwaha neighbourhood; the governorate said more than seven people were left without a home. In both cases the stated reason was the lack of a building permit.",
+    "Silwan, 4 November. Municipal bulldozers demolished the home of Suleiman Abu Subaih in the al-Bustan neighbourhood. The governorate said the 80-square-metre house was 25 years old, that Abu Subaih has particular health needs after the amputation of a leg, and that crews damaged roads and uprooted trees in the neighbourhood to clear a route to the building. He lived there with his wife.",
+    "Jerusalem governorate, 5 November. Bulldozers demolished several homes and a residential building in a town that WAFA's report did not name, after residents were made to empty them. The governorate listed five owners, Ziad al-Sheikh, Ghazi al-Sheikh, Wael Samara, Murad Shammasneh and Ahmad al-Dali, and said 20 people were displaced. The same day, the Palestinian foreign ministry said about half the structures of the Bedouin community of Bir al-Maskub, east of the city, were destroyed.",
+    "Jabal al-Mukabber, 6 November. Two relatives, Mar'i Jamil Ja'abees and Mohammed Aziz Ja'abees, demolished their own houses in the al-Sal'a area on a Friday morning. Each house measured about 50 square metres and was built in 2020; together they housed 18 people. The families had earlier paid 25,000 shekels in an attempt to prevent the demolitions, local sources told WAFA.",
+    "The cases follow a pattern the UN has documented for years. OCHA recorded 31 Palestinian-owned structures demolished or self-demolished across the West Bank, including East Jerusalem, between 27 October and 2 November, displacing 71 people of whom 38 were children; 24 were destroyed for lack of an Israeli-issued permit. The UN office has described such permits as almost impossible for Palestinians to obtain. Israel says it is enforcing planning law."
+   ],
+   "subheads": {
+    "1": "Three owners, three orders",
+    "3": "Bulldozers in al-Bustan",
+    "5": "A pattern in the data"
+   },
+   "date": "2026-11-06T14:16:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176696"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176665"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/JabbelMukkabarMar012022_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JabbelMukkabarMar012022_02.jpg",
+    "credit": "Hagai Agmon-Snir / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "caption": "Archive: the Jabal al-Mukabber neighbourhood of East Jerusalem, March 2022."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "how-does-aid-enter-gaza-now",
+   "section": "gaza",
+   "tag": "Aid",
+   "place": "Kerem Shalom",
+   "title": "How does aid reach Gaza now, and why did the number of trucks fall by more than a quarter in a week?",
+   "short": "How does aid get into Gaza now?",
+   "kind": "ask",
+   "gist": "Most cargo is offloaded at Kerem Shalom; the UN manifested 466 trucks in the last week of October, 28 per cent fewer than the week before.",
+   "body": [
+    "Almost everything that reaches Gaza's warehouses passes through one point. In its report for 27 October to 2 November, OCHA says the Logistics Cluster manifested 466 UN and partner trucks for entry between 26 October and 1 November, and 397 of them were offloaded on the Israeli side of the Kerem Shalom crossing. That cargo had started its journey in three places: 195 truckloads came from the port of Ashdod, 127 from Egypt and 28 from Jordan.",
+    "The total was 28 per cent lower than the previous week. Part of the explanation is financial. Partners told OCHA that the amount of humanitarian cargo available to ship is declining because of funding constraints, and the World Food Programme announced on 19 October that it would cut assistance to about 500,000 people. Part is political: the UN said transport was suspended on 27 October because Israel closed Kerem Shalom for its election day.",
+    "Commercial goods use the same gate. Private trucks resumed through Kerem Shalom after a suspension in mid-October, which OCHA says brought the prices of basic commodities back to their early-October levels. Data from the Gaza Chamber of Commerce show 498 commercial truckloads entering between 26 October and 1 November. During the suspension, the head of Gaza's bakers' association told WAFA on 22 October that flour stocks were exhausted and only seven of 20 commercial bakeries were still working.",
+    "The route from Egypt is now in doubt. On the evening of 1 November, OCHA reports, Israeli authorities notified UN agencies that humanitarian and commercial shipments from Egypt would be suspended, with some exceptions, citing concerns about smuggling. The Food Security Sector warned that if the suspension lasts, daily cooked meals could fall from about 600,000 to 330,000, a cut of roughly 45 per cent, and bread production from 160 to 139 metric tons a day.",
+    "Entry is only half the journey. Trucks inside Gaza depend on engine oil, lubricants and spare parts that Israel tightly restricts, and OCHA says only half of the waste-collection fleet is still running. One aid partner could not deliver 7,250 planned meals on 7 November because its vehicles lacked oil and parts and roads were flooded. On 3 November small-arms fire was reported close to a UN-organised convoy in Rafah and near a UN-contracted facility in Deir al-Balah.",
+    "People cross in far smaller numbers than goods. OCHA recorded 107 patients, 38 of them children, leaving with 119 companions through Rafah and Kerem Shalom for Egypt and Jordan in the week to 2 November. On 9 November, WAFA reported, 23 patients and 28 companions departed through Rafah, and four people were turned back. For now, 21 subsidised bakeries and 90 community kitchens remain the daily measure of what gets in."
+   ],
+   "subheads": {
+    "1": "Why volumes fell",
+    "3": "The Egyptian route",
+    "4": "The last kilometres"
+   },
+   "date": "2026-11-06T12:00:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/10/1168685"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176174"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Humanitarian_Aid_at_the_Kerem_Shalom_Crossing_Point_%289389531%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Humanitarian_Aid_at_the_Kerem_Shalom_Crossing_Point_(9389531).jpg",
+    "credit": "Sgt. 1st Class Malcolm Cohens-Ashley, U.S. Army / Wikimedia Commons",
+    "license": "Public domain",
+    "caption": "Archive: an aid truck leaves after offloading at the Kerem Shalom crossing, 13 November 2025."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "west-bank-environment-760-violations-2026",
+   "section": "west-bank",
+   "tag": "Environment",
+   "place": "Ramallah",
+   "title": "Seven figures from the Palestinian environment authority's count of 760 violations in the West Bank",
+   "short": "760 environmental violations logged in West Bank this year",
+   "kind": "list",
+   "gist": "The Environmental Quality Authority says it logged 760 environmental violations by Israeli forces and settlers from January to September 2026.",
+   "body": [
+    "The Palestinian Environmental Quality Authority marked the UN's day for preventing the exploitation of the environment in war, 6 November, by publishing its tally for the first nine months of 2026: 760 environmental violations in the West Bank that it attributes to Israeli forces and settlers. The figures are the authority's own and were reported by WAFA. Seven of them give a sense of what is being counted, and of how broadly the authority defines environmental harm.",
+    "203 and 178. The largest category, 203 incidents, concerns farmland and nature reserves: olive groves bulldozed, settlement roads cut through fields, thousands of dunums seized, land fenced off for herding outposts and greenhouses burned. A further 178 incidents targeted forests and vegetation. The authority says thousands of fruit-bearing and perennial trees were uprooted, about 100,000 of them olive trees by the end of September, and that wheat and barley fields were set alight.",
+    "$67 million. That is the authority's estimate of losses from the destruction of trees and vegetation alone. The UN's own count for the current olive season is narrower but points the same way: OCHA recorded 377 harvest-related settler attacks between 1 September and 2 November, more than in any previous season, and UN experts said more than 6,000 trees and saplings were vandalised during the 2025 harvest.",
+    "185. The authority logged this many violations involving hazardous waste and demolition debris, thousands of tons of construction rubble concentrated in Jenin and Tulkarm governorates and their refugee camps, where Israeli military operations since early 2025 have demolished large numbers of buildings. Five more incidents damaged sewage networks in the two camps and halted wastewater drainage for residents, it said.",
+    "37 and 35. Water was the target in 72 incidents: 37 against sources, including wells that were filled in or buried, springs destroyed or taken over and tanks wrecked, and 35 against pipelines and irrigation networks. The authority says the main pipe serving the Birin area was destroyed at Khallet al-Furn, cutting off about 450 people, and that a pipe to Ad-Duqaiqa village in Hebron governorate was severed, leaving 700 residents without water.",
+    "52. This is the number of attacks on livestock and food security, including the theft of hundreds of animals and the release of settlers' herds onto cultivated land. The practice has continued into the autumn: on 9 November, WAFA reported, settlers let livestock loose on Palestinian farmland in Hebron governorate, damaging crops, and on 4 November the agency reported the theft of a banana harvest from Palestinian land in Nablus governorate.",
+    "The authority argues that the pattern amounts to environmental war crimes under the Rome Statute and the Geneva Conventions, a legal assessment that is its own. Its statement also covered Gaza, where it estimates that 82 per cent of farmland and 97 per cent of fruit and olive trees have been destroyed or bulldozed. The seven categories it itemised add up to 695, so about 65 of the 760 incidents are not broken down in the published summary."
+   ],
+   "subheads": {
+    "1": "Land and trees",
+    "3": "Rubble and water",
+    "6": "What the count leaves open"
+   },
+   "date": "2026-11-06T09:11:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176688"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176084"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Palestinian_farmer_plants_olive_trees_in_Beit_Omman_%282010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Palestinian_farmer_plants_olive_trees_in_Beit_Omman_(2010).jpg",
+    "credit": "Palestine Solidarity Project / Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "caption": "Archive: a farmer plants an olive sapling in Beit Ummar, north of Hebron, January 2010."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "what-is-the-e1-plan-bir-al-maskub",
+   "section": "jerusalem",
+   "tag": "Settlements",
+   "place": "East of Jerusalem",
+   "title": "What is the E1 plan, and why did a Bedouin hamlet's demolition raise alarm that it has begun?",
+   "short": "What is the E1 plan east of Jerusalem?",
+   "kind": "ask",
+   "gist": "E1 is a planned settlement of 3,401 homes between Jerusalem and Ma'ale Adumim; Palestinians say demolitions at Bir al-Maskub mark its start.",
+   "body": [
+    "E1 is the name of a tract of hills between East Jerusalem and the large settlement of Ma'ale Adumim. Israel has had plans to build there for decades and repeatedly shelved them under international pressure, because construction would close the last open corridor linking the northern and southern West Bank past Jerusalem. Two tenders are now on the books for a total of 3,401 housing units, according to the Palestinian Authority's Wall and Settlement Resistance Commission.",
+    "The larger tender, No. 460/2025, covers 2,167 units; a second, No. 186/2026, covers 1,234. On 5 November the timetable for the first was revised: publication of the tender documents and the opening of bidding moved from 25 October to 1 December, and the closing date from 21 to 28 December. The commission stressed that this is a change of schedule only, not a cancellation or a reduction in the number of homes.",
+    "On the same day the Palestinian foreign ministry said Israeli forces had demolished about half of the structures of Bir al-Maskub, a Bedouin community inside the planning area, including four residential clusters, and handed out demolition notices for everything that remained. The ministry called it a shift from planning and paperwork to implementation on the ground, and warned that other Bedouin communities in the area could be next.",
+    "The ministry's argument is that E1 would cut the West Bank in two, separate East Jerusalem from its Palestinian surroundings and so make a contiguous Palestinian state impossible. It accused Israel's caretaker government of using the transition after the 27 October election to create facts on the ground. It called on other governments, and on the United States in particular, to act to stop the demolitions before they spread to neighbouring communities.",
+    "Foreign governments have gone beyond statements. Britain's foreign secretary, Ed Miliband, said on 18 October that the tender was a direct threat to a two-state solution and addressed companies directly: the UK, he said, has created powers to sanction individuals and firms involved in building settlements such as E1, and bidders should expect legal and reputational consequences. He also repeated a commitment to legislate against imports of settlement goods.",
+    "Bir al-Maskub is one of several herding communities around the Jerusalem to Jericho road, of which Khan al-Ahmar is the best known. On 8 November settlers from a nearby outpost stoned homes in another Bedouin community close to Khan al-Ahmar before residents drove them off, the Jerusalem Governorate said. Israel maintains that the communities were built without permits on state land; residents say they have nowhere else to go."
+   ],
+   "subheads": {
+    "1": "Two tenders, 3,401 homes",
+    "2": "Half a hamlet demolished",
+    "4": "London warns bidders"
+   },
+   "date": "2026-11-05T21:09:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176677"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176685"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176067"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/KhanAlAhmarJan282025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:KhanAlAhmarJan282025_01.jpg",
+    "credit": "Hagai Agmon-Snir / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "caption": "Archive: Khan al-Ahmar, a Bedouin community in the same area east of Jerusalem, January 2025. Bir al-Maskub itself is not pictured."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "why-uk-supreme-court-reviewing-palestine-action-ban",
+   "section": "solidarity",
+   "tag": "Courts",
+   "place": "London",
+   "title": "Why has the UK Supreme Court been asked to rule on the ban on the protest group Palestine Action?",
+   "short": "Why is the UK's top court reviewing the Palestine Action ban?",
+   "kind": "ask",
+   "gist": "The court heard an appeal on 4-5 November on whether the 2025 ban breaches free expression and assembly rights; judgment is still pending.",
+   "body": [
+    "Britain's Supreme Court spent 4 and 5 November hearing the final domestic appeal against the government's decision to ban Palestine Action under terrorism law. The appeal was brought by Huda Ammori, a co-founder of the direct-action group. The justices have reserved judgment, which is expected in December or January. Their ruling will settle a legal fight that has run for sixteen months and produced two contradictory decisions from the courts below.",
+    "The ban dates from July 2025. The House of Commons voted 385 to 26 on 2 July to proscribe the group, in an order that also listed two neo-Nazi organisations, and the measure took effect on 5 July under the Terrorism Act 2000. From that date, membership of the group or public expressions of support for it became criminal offences. Ammori went to the High Court the day before the ban took effect.",
+    "She won there. On 13 February 2026 three High Court judges ruled unanimously that the proscription was unlawful, both because it breached rights protected by the Human Rights Act and because the home secretary had not applied her own policy. Amnesty International and Liberty had intervened in the case, and the UN special rapporteur on counter-terrorism made submissions. The court delayed quashing the order so the government could appeal.",
+    "The government won the next round. On 15 June a five-judge Court of Appeal overturned the High Court; the lady chief justice, Baroness Carr, called the ban a justified and proportionate interference with individual rights. On 29 July the Supreme Court agreed to hear a further appeal, limited to one question: whether proscription is compatible with Articles 10 and 11 of the European Convention on Human Rights, which protect freedom of expression and of assembly.",
+    "The stakes are measured in arrests. At least 3,070 people were arrested between the ban and the end of April 2026, most for holding signs expressing support for the group at silent sit-ins in Parliament Square and Trafalgar Square, according to figures collected on the group's Wikipedia page, and more than 600 others in a later wave. The Metropolitan Police spent £8.73 million policing four days of such protests.",
+    "If Ammori succeeds, the proscription falls and the basis for the arrests made under it is called into question; if she fails, she has said she will take the case to the European Court of Human Rights in Strasbourg. Either way the judgment will define how far a British government can go in using counter-terrorism powers against a protest movement, a question that reaches well beyond campaigning on Palestine."
+   ],
+   "subheads": {
+    "1": "How the ban came about",
+    "2": "One win each in the lower courts",
+    "4": "What is at stake"
+   },
+   "date": "2026-11-05T17:00:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Palestine_Action"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Protest_in_solidarity_with_Palestine_Action_in_Parliament_Square_6_September_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Protest_in_solidarity_with_Palestine_Action_in_Parliament_Square_6_September_2025.jpg",
+    "credit": "Alisdare Hickson / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "caption": "Archive: a sit-in in support of Palestine Action in Parliament Square, London, 6 September 2025."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "israeli-courts-reject-petitions-14-gaza-doctors",
+   "section": "gaza",
+   "tag": "Courts",
+   "place": "Gaza Strip",
+   "title": "Israeli courts reject two petitions seeking the release of 14 Gaza doctors held without charge",
+   "short": "Courts refuse to free 14 detained Gaza doctors",
+   "kind": "say",
+   "gist": "Physicians for Human Rights-Israel says the 14 doctors, some held for more than two years, include hospital directors and specialists.",
+   "body": [
+    "Israeli courts have rejected two petitions filed by the rights group Physicians for Human Rights-Israel for the release of 14 Palestinian doctors from Gaza, WAFA reported in a dispatch dated 5 November. The organisation says the doctors are being held in Israeli prisons without charge or trial, and that some of them have been in detention for more than two years. The report does not name the doctors or give details of the judges' reasoning.",
+    "Naji Abbas of Physicians for Human Rights-Israel said the group includes hospital directors and specialists in critical fields of medicine. In his view the two rulings show the scale of the violations against detained medical staff and the failure of the Israeli judiciary to protect their rights. Detainees, he argued, should not lose their medical rights because of their public profile or because of security allegations made against them.",
+    "Abbas framed the case as a matter of patient care as well as individual liberty. Israel cannot continue to hold doctors without trial, he said, because it deprives patients in Gaza of their care while denying the doctors themselves basic medical treatment. The organisation's petitions asked for the doctors to be released; it was not clear from the report whether it intends to take the cases further or to file new applications.",
+    "The staffing gap is acknowledged across the health sector. When Japan and the World Health Organization signed a $1.97 million grant on 10 November, the announcement said Gaza's health system faces immense pressure from shortages of health personnel, growing patient needs and rising demand for specialised services. Part of the money will train 100 local emergency medical team members so that Gaza relies less on visiting foreign teams.",
+    "Detention conditions are a concern in their own right. The Palestinian Prisoners' Society said on 8 November that testimony gathered by its lawyers in October and early November indicated about 80 per cent of detainees had scabies, which it linked to a severe shortage of clothing and a lack of treatment. Palestinian detainee bodies put the number of people held in Israeli prisons at more than 9,300, including about 90 women.",
+    "Israel says it detains people from Gaza on security grounds; the petitions concerned doctors against whom, according to the rights group, no charges have been brought. A WAFA feature published on 1 November described a similar pattern in the West Bank, profiling a 71-year-old general practitioner, Mazen al-Rantisi, who was held for four months and who said nine other doctors were detained in the same period."
+   ],
+   "subheads": {
+    "1": "'Hospital directors and specialists'",
+    "3": "A health system short of staff"
+   },
+   "date": "2026-11-05T14:00:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176849"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176733"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176842"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Al-Shifa_Hospital_in_Gaza_after_Gaza_war_23-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Al-Shifa_Hospital_in_Gaza_after_Gaza_war_23-25.jpg",
+    "credit": "Jaber Jehad Badwan / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "caption": "Archive: Al-Shifa Hospital in Gaza City, February 2025."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "african-union-oic-arab-league-joint-statement",
+   "section": "solidarity",
+   "tag": "Diplomacy",
+   "place": "Addis Ababa",
+   "title": "African Union, OIC and Arab League jointly call for Israeli withdrawal and second phase of Gaza ceasefire",
+   "short": "AU, OIC and Arab League issue joint call on Palestine",
+   "kind": "say",
+   "gist": "Meeting in Addis Ababa, the three organisations called for an end to the occupation, a Palestinian state and reopening of all Gaza crossings.",
+   "body": [
+    "The African Union Commission, the Organisation of Islamic Cooperation and the League of Arab States issued a joint statement on Thursday 5 November calling for an end to Israel's occupation of Palestinian territory and an immediate and unconditional withdrawal. The statement followed a consultative meeting held the previous day at the African Union's headquarters in Addis Ababa, part of a three-way coordination mechanism the organisations have set up on Palestine.",
+    "Between them the three bodies count most of the states of Africa, the Arab world and the wider Muslim world among their members. Their statement backs an independent, sovereign Palestinian state on the lines of 4 June 1967 with East Jerusalem as its capital, in accordance with UN resolutions and the Arab Peace Initiative, and commits them to practical steps towards a two-state solution, including follow-up to the 2025 New York Declaration.",
+    "On Gaza, the organisations called for the second phase of the ceasefire agreement to be implemented in a way that leads to a permanent end to hostilities, the lifting of the blockade and the reopening of all crossings for the safe and unhindered delivery of aid. They said reconstruction must begin, and rejected any plan to displace Palestinians from Gaza or the West Bank, which they described as a war crime.",
+    "The statement devotes several paragraphs to the West Bank. It reaffirms that all Israeli settlements in occupied territory are illegal and calls for them to be dismantled, warns of escalating violence by extremist settlers acting under army protection, and calls for settlers to be disarmed in line with Security Council Resolution 904 of 1994. It welcomes the UN Human Rights Council's database of companies doing business in settlements.",
+    "On Jerusalem, the three organisations urged countries that have moved their embassies to the city, or announced plans to, to reverse those decisions. They called for the preservation of the historical and legal status quo at Islamic and Christian holy sites, Al-Aqsa Mosque in particular. They also condemned the ill-treatment of Palestinian prisoners and asked Israel to disclose the whereabouts of detainees.",
+    "The Palestinian Authority welcomed the statement. The text describes the Palestine Liberation Organization as the sole legitimate representative of the Palestinian people, calls for support to the Palestinian government so that it can assume its responsibilities in all of the occupied territory including Gaza, and demands that Israel release withheld Palestinian tax revenues in full. It also urges that Israeli forces be held to account before national and international courts."
+   ],
+   "subheads": {
+    "2": "Gaza: phase two",
+    "3": "Settlements and Jerusalem"
+   },
+   "date": "2026-11-05T13:08:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176673"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/00-African-union-conference-center.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:00-African-union-conference-center.JPG",
+    "credit": "Elmschrat Coaching-Blog / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "caption": "Archive: the African Union conference centre and headquarters in Addis Ababa, July 2012."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "gaza-siblings-custom-wheelchairs-educaid",
+   "section": "gaza",
+   "tag": "Disability",
+   "place": "Gaza Strip",
+   "title": "'For the first time I have my own chair': three Gaza siblings born without legs receive custom aids",
+   "short": "Three Gaza siblings get wheelchairs built for them",
+   "kind": "say",
+   "gist": "Anas, Mohammad and Sujood Al-Sharif received wheelchairs, writing aids and walking supports made in Gaza by the NGO EducAid with UN funding.",
+   "body": [
+    "Sujood Al-Sharif is 17 and until recently had never had a wheelchair that was hers. She and her brothers Mohammad, 15, and Anas, 10, were all born without legs and with two fingers on each hand. A story published by the UN humanitarian office OCHA on 5 November describes how the three received equipment designed around their bodies and their school day, paid for by the occupied Palestinian territory Humanitarian Fund and delivered by the international organisation EducAid.",
+    "For Sujood the package included a size-40 wheelchair with a detachable dining table, an adjustable slanted writing table, a waterproof shield for the lower body and hand supports for walking. She told the team that she sleeps in the chair so that her siblings cannot take it, and that it made her feel somebody cares about her. Writing used to exhaust her because she had to lie down to do it. She says she wants to study media.",
+    "Anas, the youngest, had his existing wheelchair serviced and upgraded, and was given a customised pen grip. Before, the pen kept slipping out of his hand, he moved mostly by crawling on his hands, and his mother often had to carry him. His mother told OCHA the difference was huge, particularly for writing and eating. EducAid began supporting him in 2025, while the war was still under way, according to the account.",
+    "Mohammad's aids were built after staff assessed what he needed both at school and at home. EducAid's own workshops produced the devices, among them a small skateboard-style seat that he enjoys using to get around, hand grips that his mother says protect him from wounds and slipping, and a commode chair that she said changed daily life. Mohammad's own verdict was practical: with the table and the shield, his clothes no longer get dirty.",
+    "A teacher quoted in the story said the three stand out in class, are eager to learn and had started to write more effectively. The article does not say where in Gaza the family lives; Sujood mentions leaving her tent, which suggests they are among the displaced. A separate OCHA report on the 6 to 8 November storm found that flooding hit two sites for people with disabilities, affecting 200 families, and described such households as facing heightened risk.",
+    "The Humanitarian Fund is a pooled fund managed by OCHA that channels donor money to aid organisations working in Gaza and the West Bank. The UN's news service carried the siblings' story on 7 November. Aid agencies estimate that thousands of children in Gaza now live with life-changing injuries, on top of those, like the Al-Sharif children, whose disabilities date from birth and whose equipment was lost, worn out or never available."
+   ],
+   "subheads": {
+    "1": "A chair of her own",
+    "3": "Built in a Gaza workshop"
+   },
+   "date": "2026-11-05T11:00:00+02:00",
+   "age": "a-week",
+   "sources": [
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/first-time-my-wheelchair-supports-me-story-three-siblings-gaza"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-heavy-rains-gaza-strip-8-november-2026"
+    }
+   ],
+   "photo": null,
+   "minutes": 2,
+   "has_photo": false
+  },
+  {
+   "id": "ramallah-villages-2536-dunums-declared-state-land",
+   "section": "west-bank",
+   "tag": "Land",
+   "place": "Beitillu",
+   "title": "Israel declares 2,536 dunums belonging to three villages north-west of Ramallah 'state property'",
+   "short": "2,536 dunums near Ramallah declared 'state property'",
+   "kind": "say",
+   "gist": "A 3 November declaration covers land of Beitillu, al-Mazra'a al-Qibliya and Deir Ammar; owners have 45 days to object.",
+   "body": [
+    "Israeli authorities have declared 2,536.44 dunums of land belonging to the villages of Beitillu, al-Mazra'a al-Qibliya and Deir Ammar, north-west of Ramallah, to be state property, the Palestinian Authority's Wall and Settlement Resistance Commission said on 4 November. The declaration was issued a day earlier and rests on Military Order No. 59 of 1967 concerning government property, according to the commission's statement carried by WAFA. A dunum is 1,000 square metres.",
+    "The land lies around the settlement of Kerem Reim. The commission said the declared area is spread over several registered land blocks in the three villages and that the accompanying map shows large, irregular shapes with excluded parcels scattered inside them. That makes it necessary, it said, to check each affected plot against the declared boundary and against ownership documents before owners can know exactly what they stand to lose.",
+    "In the commission's analysis, the measure would make it easier to join up the settlements of the Talmonim bloc, in particular Kerem Reim, Neria and Nahliel, and to extend them towards Talmon and Dolev. It said herding outposts already project control beyond the built-up areas by chasing farmers and shepherds off land between settlement sites, and warned that the cumulative effect is to break up the Palestinian countryside from Halamish and Ateret down to Dolev.",
+    "Anyone claiming rights to the land may object within 45 days of the declaration being posted on the land itself and at liaison offices. Objections go to a committee at the Ofer military camp. The commission urged landowners, village councils and legal organisations to collect title deeds, records of cultivation and land use, and documentation of occasions when farmers were attacked or kept off their plots, and to file quickly.",
+    "The declaration is one of several land measures reported in the same fortnight. The commission said Israel issued tenders on 3 and 5 November for 91 housing units in the settlement of Oranit, on land of Qalqilya governorate, and a tender on 9 November for 732 units in Gva'ot, west of Bethlehem. Earlier, on 19 October, WAFA reported a separate declaration covering 182.81 dunums in Bethlehem and Hebron governorates.",
+    "Israel regards land it declares state property as available for allocation by its custodian of government property; Palestinians and most of the international community consider settlements in occupied territory illegal under international law. UN experts noted in October that the army has changed its policy this year so that Palestinians can no longer obtain permits to harvest olives on plots Israel classifies as state land, even where families have picked them for generations."
+   ],
+   "subheads": {
+    "2": "Joining up a settlement bloc",
+    "3": "Forty-five days to object"
+   },
+   "date": "2026-11-04T12:10:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176647"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176685"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176084"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Beitillu_6024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Beitillu_6024.jpg",
+    "credit": "יעקב (Yaakov) / Wikimedia Commons",
+    "license": "CC0",
+    "caption": "Archive: the village of Beitillu, north-west of Ramallah, photographed from a nearby hilltop in April 2026."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "deir-al-balah-boy-returns-to-learning",
+   "section": "gaza",
+   "tag": "Education",
+   "place": "Deir al-Balah",
+   "title": "A 12-year-old who drove a cart to feed his family is back in class in Deir al-Balah, with help",
+   "short": "From cart driver back to pupil at 12",
+   "kind": "say",
+   "gist": "A boy who lost his mother in a 2024 strike and left learning to work has returned to school after counselling and family support, OCHA reports.",
+   "body": [
+    "The boy in the story is called Shadi, which is not his real name. He is 12 and comes from Deir al-Balah. In January 2024 an Israeli air strike hit his home, killing his mother, his grandmother, his aunts and other relatives and critically injuring his father, according to an account published by the UN humanitarian office OCHA on 4 November. Shadi was hurt too, and his injuries affected both his eyesight and his speech.",
+    "The family ended up at a displacement site in the same town. Relatives noticed that the boy had become quiet, withdrawn and fearful. He stopped going to learning activities and began working with an animal-drawn cart, hauling goods to bring in money. With his mother dead and his father badly injured, OCHA writes, he had taken on an adult's share of responsibility for meeting the family's basic needs at an age when he should have been in a classroom.",
+    "It was his sister who asked for help. A protection team run by DanChurchAid and its local partner, the MA'AN Development Center, assessed the household and drew up a plan for the whole family. Shadi received individual counselling and psychosocial support, and was referred for speech therapy, for help with his visual impairment and for a place in a learning programme. The family was linked to food assistance and health care to ease the financial pressure that had pushed him into work.",
+    "Over time, the account says, Shadi grew more comfortable in the sessions and started to look forward to them. He told the team that he feels very comfortable and waits for the sessions every day. With continued case management for him and his relatives, he has gone back to school. His sister said the family had learned things it did not know before, and that the support they received had changed both of them.",
+    "The project is financed by the occupied Palestinian territory Humanitarian Fund and serves more than 15,000 people in Khan Younis and Deir al-Balah through community-based counselling, psychosocial support and referrals. OCHA sets Shadi's case against wider figures: tens of thousands of children in Gaza have been injured over the past three years, UNICEF estimates that tens of thousands have lost one or both parents, and about 60 per cent of school-age children had no in-person learning in the 2024-2025 school year.",
+    "Getting children back into class is a system-wide effort. In the week to 2 November, education partners sent 164,530 school bags to 385 learning spaces, OCHA reported. The storm that followed damaged 20 of those spaces and pushed attendance at others as low as 3 per cent. The agency's authors are careful about what protection work can do: it cannot undo a child's losses, they write, but it can restore routine and a way back to learning."
+   ],
+   "subheads": {
+    "2": "A plan for the whole family",
+    "4": "One of tens of thousands"
+   },
+   "date": "2026-11-04T10:00:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/helping-child-survivor-gaza-return-learning"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-heavy-rains-gaza-strip-8-november-2026"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Displaced_children_play_inside_UNRWA_Palestine_school%2C_which_has_been_turned_into_a_shelter%2C_Jabalia_camp%2C_Gaza_Strip.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Displaced_children_play_inside_UNRWA_Palestine_school,_which_has_been_turned_into_a_shelter,_Jabalia_camp,_Gaza_Strip.jpg",
+    "credit": "Abedallah Alhaj, UNRWA / Wikimedia Commons",
+    "license": "CC BY-SA 3.0 IGO",
+    "caption": "Archive: displaced children play inside an UNRWA school used as a shelter in Jabalia camp, February 2024. Not the child in this story."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "what-happened-in-hebron-ten-day-operation",
+   "section": "west-bank",
+   "tag": "Hebron",
+   "place": "Hebron",
+   "title": "What happened during Israel's ten-day operation in Hebron, and what did families find when it ended?",
+   "short": "What happened in Hebron's ten-day lockdown?",
+   "kind": "ask",
+   "gist": "From 23 October to 2 November Israeli forces sealed two Hebron neighbourhoods, displacing more than 3,000 people who are now returning.",
+   "body": [
+    "It began with a shooting. On Friday 23 October two Palestinian gunmen opened fire on an Israeli military checkpoint at the edge of Hebron, killing two soldiers and wounding several others before being shot dead. Within hours Israeli forces had sealed the Jildah and Ein Deir Bahah neighbourhoods and imposed sweeping movement restrictions on the city and its surroundings. The operation lasted ten days and ended on 2 November, according to OCHA.",
+    "Counts of the displaced rose through the week. The UN said on 26 October that more than 3,000 people had been evacuated by Israeli forces. On 29 October Hebron governor Khaled Dudin put the figure at 537 families, or 3,361 people, among them 232 infants, 326 older people and 147 pregnant or breastfeeding women. By 30 October WAFA reported about 5,000 people either displaced or confined to their homes. OCHA notes that the municipality's figures are still being verified.",
+    "Daily life stopped well beyond the two neighbourhoods. OCHA says about 90,000 students in the Hebron education directorate were affected by a temporary suspension of in-person teaching, and 11 schools with some 4,450 pupils remained out of reach until 3 November. The Hebron Chamber of Commerce estimated losses of 10 to 12 million shekels a day. Palestinian sources reported more than 115 arrests; WAFA described a protest by displaced families at the closed Jildah roundabout on 30 October.",
+    "On 30 October Israeli forces used explosives to demolish two apartments belonging to the families of the two attackers. OCHA says three families, 15 people including nine children, lost their homes, neighbouring flats were damaged and eight relatives were arrested. Such punitive demolitions accounted for seven of the 31 Palestinian-owned structures destroyed across the West Bank during that week, the office said.",
+    "The UN's human rights chief, Volker Türk, said on 26 October that the operation raised grave concerns of unnecessary and disproportionate force and that collective punishment is a grave violation of international law. He said threats by senior officials to empty neighbourhoods raised serious concerns of ethnic cleansing. Sixty members of the European Parliament wrote to the EU's foreign policy chief calling the closure collective punishment. Israel said it was acting against those behind a deadly attack.",
+    "Families started going back after 2 November. OCHA reports damage to belongings, including in homes that had reportedly been used as military positions. Aid agencies and the municipality have given one round of emergency cash, about 500 food parcels, blankets, mattresses and hygiene kits, and a second cash round is being considered. Mobile clinics were still suspended in 10 places in the governorate on 3 November. A delegation of UN and NGO heads visited the city the day the operation ended."
+   ],
+   "subheads": {
+    "1": "How many were displaced",
+    "3": "Demolitions and the law",
+    "5": "The return"
+   },
+   "date": "2026-11-02T18:00:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/10/1168672"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176447"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Holy_Land_2022_%281%29_P168_Hebron_Old_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Holy_Land_2022_(1)_P168_Hebron_Old_City.jpg",
+    "credit": "Fallaner / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "caption": "Archive: view over part of Hebron's Old City, May 2022. The neighbourhoods sealed in October lie elsewhere in the city."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "greece-funds-east-jerusalem-hospitals-pegase",
+   "section": "jerusalem",
+   "tag": "Health",
+   "place": "East Jerusalem",
+   "title": "Greece commits €600,000 to East Jerusalem hospitals as WHO data show a quarter of patient permits unmet",
+   "short": "Greece gives €600,000 to East Jerusalem hospitals",
+   "kind": "say",
+   "gist": "Greece signed a €600,000 grant for East Jerusalem hospitals on 2 November; WHO says 76% of patient permit requests were approved this year.",
+   "body": [
+    "Greece has committed €600,000 to the hospitals of East Jerusalem. The agreement was signed on Monday 2 November by the Greek consul general in Jerusalem, Dimitrios Angelosopoulos, and the Palestinian Authority's minister of finance and planning, Estephan Salameh, WAFA reported. The money will be paid through PEGASE, the direct financial support mechanism set up by the European Commission and run by the office of the EU representative in Jerusalem.",
+    "The East Jerusalem hospitals are a network of Palestinian charitable and church-run institutions, among them Augusta Victoria on the Mount of Olives and Makassed, that provide specialised treatment not available elsewhere in the Palestinian health system. They treat patients referred from across the West Bank and Gaza by the Palestinian Authority, which is why donor support for them is routed through an agreement with the authority's finance ministry. WAFA described the Greek money as a contribution to essential health care services.",
+    "Getting to the hospitals is its own obstacle. Patients from the rest of the West Bank and from Gaza need an Israeli permit to enter East Jerusalem. The World Health Organization reports that 76 per cent of 93,051 patient permit applications for treatment in East Jerusalem or Israel were approved between January and October 2026, according to OCHA. That is an improvement on 64 per cent in 2025 but still below the level before October 2023.",
+    "The remaining quarter matters, the UN office notes, because applications that were denied or still pending were not resolved by the date of the patient's appointment. A permit that arrives after the appointment date is, in practice, a missed treatment session or a postponed operation, whatever the eventual decision. OCHA adds that 872 health service points were functioning across the West Bank in October, 490 of them only partially.",
+    "The road in is slow even with a permit. On the evening of 1 November WAFA reported long queues at the Qalandia checkpoint and the nearby roundabout in Kafr Aqab, and at the Shu'fat refugee camp checkpoint, after Israeli forces tightened procedures, and a temporary checkpoint at the entrance to Hizma. On 9 November the entrances to Hizma were closed altogether.",
+    "Greece is not alone in directing money at Palestinian health care this month. Japan signed a $1.97 million grant with the WHO on 10 November for emergency medical coordination in Gaza, and Arab health ministers meeting the same day called for continued support to the Palestinian health sector. For the Jerusalem hospitals the Greek contribution is modest in scale, but it arrives at a moment when UN agencies report that funding for health and relief work is shrinking."
+   ],
+   "subheads": {
+    "2": "A permit to be treated",
+    "4": "Queues at Qalandia"
+   },
+   "date": "2026-11-02T17:44:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176567"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176514"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Jerusalem-Augusta-Victoria-KMOGH-1833.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Jerusalem-Augusta-Victoria-KMOGH-1833.jpg",
+    "credit": "Bukvoed / Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "caption": "Archive: the Augusta Victoria Hospital compound on the Mount of Olives, East Jerusalem, January 2025."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "what-was-the-balfour-declaration-109-years",
+   "section": "analysis",
+   "tag": "History",
+   "place": "London",
+   "title": "What was the Balfour Declaration, and why do Palestinians still mark its anniversary 109 years on?",
+   "short": "What was the Balfour Declaration?",
+   "kind": "ask",
+   "gist": "A 1917 letter in which Britain backed a 'national home for the Jewish people' in Palestine; Palestinians date their dispossession from it.",
+   "body": [
+    "The Balfour Declaration was a letter. On 2 November 1917 the British foreign secretary, Arthur James Balfour, wrote to Lord Rothschild, a leading figure in the Zionist movement, to say that the British government viewed with favour the establishment in Palestine of a national home for the Jewish people. The operative text was a single sentence. Monday 2 November was its 109th anniversary, which the Palestinian news agency WAFA marked with a long retrospective.",
+    "The letter followed about three years of contacts between the British government and Zionist representatives, who argued that their project could serve British strategic interests in the region. Before it was made public, London sought the approval of the US president, Woodrow Wilson. France and Italy endorsed it in 1918. At the time Palestine was still part of the Ottoman Empire, and British troops were only then advancing into it.",
+    "What turned a letter into policy was the mandate system. In 1920 the Allied powers, meeting at San Remo, awarded Britain the mandate for Palestine and charged it with putting the declaration into effect. The League of Nations approved the mandate in July 1922 and it came into force in September 1923. WAFA's account stresses that this made the declaration a commitment of the Western powers as a whole, not of Britain alone.",
+    "The text mentioned the people already living in Palestine only as existing non-Jewish communities whose civil and religious rights should not be prejudiced. It said nothing of their political rights. That omission is at the centre of the Palestinian objection: a foreign power promised a national home in a country it did not yet control to a movement based largely outside it, without consulting the population that lived there.",
+    "Opposition was immediate in the Arab world, and Britain tried to reassure Sharif Hussein of Mecca that Jewish settlement would not go beyond what was compatible with Arab interests. On the ground, immigration was facilitated under the mandate. Palestinians responded with protests and uprisings, among them the Buraq uprising of 1929 and the revolt that began in 1936. Israel was established in May 1948, and hundreds of thousands of Palestinians were displaced.",
+    "The anniversary remains a fixed date in the Palestinian calendar, marked each year by official statements and by commentary of the kind WAFA published this week. Britain's own position has shifted over the decades: it recognised the State of Palestine in September 2025. In the retrospective's closing words, the declaration was a promise made by a foreign power in a land already inhabited by another people, whose rights and aspirations were left out of the equation."
+   ],
+   "subheads": {
+    "2": "From letter to mandate",
+    "3": "The missing words",
+    "5": "Why it is still marked"
+   },
+   "date": "2026-11-02T12:10:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176541"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Hebrew_University_and_Lord_Balfour%27s_visit._Lord_Allenby%2C_Lord_Balfour_and_Sir_Herbert_Samuel._1_April_1925._matpc.05811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hebrew_University_and_Lord_Balfour%27s_visit._Lord_Allenby,_Lord_Balfour_and_Sir_Herbert_Samuel._1_April_1925._matpc.05811.jpg",
+    "credit": "American Colony Photo Department, Library of Congress / Wikimedia Commons",
+    "license": "Public domain",
+    "caption": "Archive: Lord Allenby, Lord Balfour and Sir Herbert Samuel during Balfour's visit to Jerusalem, 1 April 1925."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "what-is-the-yellow-line-in-gaza",
+   "section": "gaza",
+   "tag": "Ceasefire",
+   "place": "Gaza City",
+   "title": "What is the 'yellow line' in Gaza, and why does the UN say people near it keep being displaced?",
+   "short": "What is Gaza's 'yellow line'?",
+   "kind": "ask",
+   "gist": "It is the line Israeli forces pulled back to under the October 2025 ceasefire; the UN says it is shifting west and treated as a kill zone.",
+   "body": [
+    "The yellow line is the boundary to which Israeli forces withdrew under the ceasefire agreement of October 2025. East of it the army remains deployed; west of it is the shrinking strip where most of Gaza's population now lives. The UN humanitarian office has described the line as largely unmarked on the ground, although its latest reports mention new yellow concrete blocks appearing in Ash Shuja'iyyeh and in parts of Deir al-Balah.",
+    "The UN human rights office says the line is moving. In a statement on 30 October it reported that Israel has declared an aim of expanding its military deployment area to 70 per cent of Gaza's territory, and that over the previous two weeks its monitors documented westward expansion in Shuja'iyyeh and Gaza City and at three points in central Gaza: eastern Al Bureij, eastern Deir al-Balah and eastern Al Maghazi.",
+    "For families camped nearby, that means moving again. The office said it received reports that on 25 October a drone dropped munitions on tents at Shuja'iyyeh junction, starting a fire that burned for five hours. The Palestinian Ministry of Public Works and Housing said 200 families, about 800 people, were displaced. UN teams who visited the area days later found that more tents had been set alight, leaving at least nine households without shelter.",
+    "Ajith Sunghay, who heads the UN human rights office in the occupied Palestinian territory, called displacement in Gaza both acute and chronic. People uprooted before the ceasefire have little prospect of going home, he said, because most of their neighbourhoods lie beyond the line. His office said Israeli forces appear to treat the line as a kill zone, and that forcible transfer within occupied territory is a war crime.",
+    "An independent UN Commission of Inquiry reached a similar conclusion in a report presented to the General Assembly on 26 October. Its chair, Srinivasan Muralidhar, said Israel's expansion of territorial control continues to result in the killing and harming of Palestinians who approach or cross the line. Israel rejected the commission's findings; its mission in Geneva called the report part of a misinformation campaign to demonise the state.",
+    "The Gaza Ministry of Health counted 36 people killed and 145 injured between 27 October and 2 November, and 1,593 killed since the ceasefire took effect, according to OCHA. UN staff have been caught up too: the organisation reported shooting near three UN schools and a convoy in late October, and said staff had to take cover from gunfire west of the line in Gaza City on 7 November."
+   ],
+   "subheads": {
+    "1": "A line that moves",
+    "3": "'Acute and chronic'",
+    "5": "The toll since the ceasefire"
+   },
+   "date": "2026-10-30T15:00:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/10/1168707"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/10/1168672"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6060.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Images_of_war_23-25_from_Gaza,_by_Jaber_Badwen,_IMG_6060.jpg",
+    "credit": "Jaber Jehad Badwan / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "caption": "Archive: a street in central Gaza City lined with destroyed buildings, February 2025."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "bethlehem-student-second-arab-reading-challenge",
+   "section": "west-bank",
+   "tag": "Education",
+   "place": "Bethlehem",
+   "title": "Bethlehem tenth-grader Ghazal Taim takes second place among 40 million in the Arab Reading Challenge",
+   "short": "Bethlehem pupil is runner-up in Arab Reading Challenge",
+   "kind": "say",
+   "gist": "Ghazal Taim, 16, of al-Awda Secondary School for Girls, finished second in the 10th Arab Reading Challenge final in Dubai on 29 October.",
+   "body": [
+    "A 16-year-old from the Bethlehem area has finished second in the Arab world's biggest reading competition. Ghazal Rashad Adel Taim, a tenth-grade pupil at al-Awda Secondary School for Girls, was named runner-up in the 10th Arab Reading Challenge at a closing ceremony at the Dubai World Trade Centre on Thursday 29 October, WAFA reported. She had travelled to the final as Palestine's national champion.",
+    "Six finalists competed in front of a live audience. Each was given one minute to answer a direct question, after which those attending voted for the winner. First place went to 11-year-old Mayar al-Shorbagy of Egypt, and third to Rayan al-Sukari of Saudi Arabia. The ceremony was attended by Sheikh Mohammed bin Rashid Al Maktoum, the ruler of Dubai and vice-president of the United Arab Emirates.",
+    "Getting to Dubai meant winning at home first. The Palestinian round drew 712,765 pupils from 1,719 schools, supervised by 4,788 coordinators, according to the figures published with the result. Those numbers include schools in a year when classes have been repeatedly interrupted: in late October alone, about 90,000 pupils in the neighbouring Hebron directorate lost days of in-person teaching during an Israeli military operation, the UN reported.",
+    "The challenge is a reading competition in Arabic in which pupils advance from their own schools to a national title and then to the regional final, as Taim did after winning the Palestinian round. The organisers, the Mohammed bin Rashid Al Maktoum Global Initiatives foundation, launched it in 2015 to encourage reading and strengthen the place of Arabic among younger generations. This year's tenth edition was the largest so far.",
+    "In all, 40,286,428 pupils from 60 countries took part, 24 per cent more than in the ninth edition, and 138,426 schools were involved under 161,507 coordinators. The organisers said 74,062 of the participants were pupils with disabilities. Against that field, second place puts a girl from a school in the Bethlehem education directorate ahead of all but one of roughly 40 million readers.",
+    "Young Palestinians have also been collecting results elsewhere this autumn. WAFA reported on 19 October that the national kickboxing team returned from a World Cup in Tashkent with two gold and six bronze medals. The contrast with Gaza is stark: OCHA notes that about 60 per cent of school-age children there had no in-person learning in the 2024-2025 school year, and aid agencies were still distributing school bags to temporary learning spaces this month."
+   ],
+   "subheads": {
+    "1": "One minute, one question",
+    "3": "Forty million readers"
+   },
+   "date": "2026-10-29T12:04:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176426"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-5-november-2026"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bethlehem_city_view_-_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Bethlehem_city_view_-_2.JPG",
+    "credit": "Dickelbers / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "caption": "Archive: Manger Square and the Mosque of Omar in central Bethlehem, April 2012."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "what-un-rapporteur-report-says-journalists-palestine",
+   "section": "analysis",
+   "tag": "Press freedom",
+   "place": "Gaza Strip",
+   "title": "What does the UN rapporteur's new report say about the killing and jailing of Palestinian journalists?",
+   "short": "What does the UN report on Palestinian journalists say?",
+   "kind": "ask",
+   "gist": "Francesca Albanese's report says nearly 300 journalists and media workers have been killed in Gaza and 80% of its media offices destroyed.",
+   "body": [
+    "The UN special rapporteur on the occupied Palestinian territory, Francesca Albanese, presented a report on the media to journalists on Tuesday 27 October. Titled 'Truth under the rubble: media in the time of genocide', it was submitted to the General Assembly. She briefed reporters by video link because US sanctions imposed on her prevent her from travelling to New York. Special rapporteurs are independent experts appointed by the Human Rights Council and do not speak for the UN.",
+    "Her central figures concern Gaza. Citing UN sources, Albanese said nearly 300 journalists and media workers have been killed there since October 2023, more than 100 have been detained, many of them tortured, and about 150 media centres and offices have been destroyed, which she put at 80 per cent of Gaza's media infrastructure. A statement by a group of UN experts on 2 November added that more than 400 have been wounded.",
+    "The report identifies around 70 journalists who, it alleges, were killed in reprisal for their work, the experts' statement said. It calls for independent, prompt and effective investigations and for journalists' material to be preserved as potential evidence. Israel has denied targeting journalists as such. Counting is itself contested: in September the Committee to Protect Journalists removed 22 names from its list of journalists killed in Gaza after they were identified as militants, according to a chronology of the year's events.",
+    "The West Bank receives its own chapter. Albanese said more than 139 attacks on journalists have recently been recorded there. Reporters covering this autumn's olive harvest have been among those affected: two foreign journalists were among 17 people detained by Israeli forces in Kafr Ni'ma on 6 November, WAFA reported, and a journalist was injured in a settler attack south of Nablus on 10 November.",
+    "Albanese criticised Israel's continuing ban on foreign journalists entering Gaza independently, which leaves coverage dependent on local reporters. She also raised the case of Shireen Abu Akleh, the Al Jazeera correspondent shot dead in Jenin in May 2022, for whose killing no one has been held to account. Asked for an update on accountability, she answered that the update is impunity.",
+    "The report is not limited to Israel. It documents intimidation and repression of Palestinian journalists by Hamas in Gaza and by the Palestinian Authority in the West Bank. The wider context was set out by the UN experts on the international day against impunity for crimes against journalists: according to UNESCO, more than 1,800 journalists were killed worldwide between 2006 and 2025, and close to nine in ten of those killings remain unresolved in court."
+   ],
+   "subheads": {
+    "1": "The Gaza figures",
+    "3": "The West Bank",
+    "4": "'The update is impunity'"
+   },
+   "date": "2026-10-27T19:00:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/10/1168685"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176576"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2026_in_Palestine"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Shireen_Abu_Akleh_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Shireen_Abu_Akleh_(3).jpg",
+    "credit": "Al Jazeera Media Network / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "caption": "Archive: Shireen Abu Akleh, the Al Jazeera correspondent killed in Jenin in May 2022, in an undated photograph released by the network."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "israel-bars-delegation-birzeit-university-conference",
+   "section": "solidarity",
+   "tag": "Academia",
+   "place": "Birzeit",
+   "title": "Israel turns back 23 foreign parliamentarians and academics bound for Birzeit University conference",
+   "short": "Israel bars 23-member delegation from Birzeit conference",
+   "kind": "say",
+   "gist": "A delegation including British MP Clive Lewis was questioned for hours at the Allenby crossing on 27 October and refused entry.",
+   "body": [
+    "Israeli authorities refused entry to the West Bank on Tuesday 27 October to an international delegation of 23 parliamentarians, politicians and academics who were travelling to a conference at Birzeit University, the university said. The group arrived at the Allenby crossing, the land crossing between Jordan and the West Bank, which Israel controls. According to the organisers, its members were held and questioned for several hours before being turned back.",
+    "Birzeit named several of those refused entry: the British Labour MP Clive Lewis; Lara Bird of the Scottish National Party; Kate Nevens, a Scottish Green member of the Scottish Parliament; the Spanish senator Josu Estarrona Elizondo of EH Bildu; and the former British MP Sam Tarry. The full delegation came from several countries, the university's statement said, without listing every name.",
+    "They had been invited to a conference organised by the university's Ibrahim Abu-Lughod Institute of International Studies under the title 'Global South Solidarity and Resistance to Imperialism', which opened the same day. Their programme also included meetings with students, academics and civil society organisations, and joining activities in support of farmers during the olive harvest, at a time of escalating settler attacks.",
+    "The date was not incidental. Israel had imposed a full closure on the West Bank after a deadly shooting near Hebron four days earlier, and 27 October was election day in Israel. There was no statement from the Israeli authorities on the reasons for the refusal in the reports available. Israel controls all entry to the West Bank and has in recent years denied entry to a number of foreign politicians critical of its policies.",
+    "The university said the refusal fits a pattern of restrictions on Palestinian academic institutions and on their contact with scholars, parliamentarians and delegations from abroad. Such restrictions, it said, obstruct academic exchange and prevent visitors from seeing conditions under occupation for themselves. It called for the protection of academic freedom and of universities' ability to work with partners and supporters internationally.",
+    "The conference was due to open the same day. The previous evening, 60 members of the European Parliament had sent a letter calling for EU sanctions over the Hebron closure, and on 6 November Israel ordered the deportation of 12 foreign volunteers detained while helping with the olive harvest near Ramallah. Birzeit, north of Ramallah, is one of the oldest Palestinian universities."
+   ],
+   "subheads": {
+    "1": "Who was turned back",
+    "3": "Election day, under closure"
+   },
+   "date": "2026-10-27T11:13:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176374"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176373"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176705"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Birzeit_University_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Birzeit_University_10.jpg",
+    "credit": "Tomasz Przechlewski / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "caption": "Archive: a lecture for a visiting foreign delegation at Birzeit University, June 2023."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "sixty-meps-urge-eu-sanctions-hebron-closure",
+   "section": "solidarity",
+   "tag": "European Union",
+   "place": "Brussels",
+   "title": "Sixty members of the European Parliament urge emergency EU meeting on sanctions over Hebron closure",
+   "short": "60 MEPs press EU for sanctions over Hebron closure",
+   "kind": "say",
+   "gist": "In a letter to EU foreign policy chief Kaja Kallas, 60 MEPs called the West Bank closure collective punishment and asked for sanctions talks.",
+   "body": [
+    "Sixty members of the European Parliament have asked the EU's foreign policy chief, Kaja Kallas, to convene an urgent meeting of the bloc's foreign ministers to agree sanctions on the Israeli government. The request came in a letter sent on the evening of Monday 26 October and signed by lawmakers from several of the parliament's political groups, WAFA reported the following day.",
+    "The trigger was the closure imposed on the West Bank after two Israeli soldiers were shot dead at a checkpoint near Hebron on 23 October. The letter describes the measures as collective punishment, which it says constitutes a war crime under international law, and accuses the Israeli government of using them to consolidate its occupation and to raise tensions during Israel's election campaign. Polling day was 27 October.",
+    "The signatories cite the demolition of homes in Hebron and say some families were given no more than five minutes to leave. They call the events a decisive turning point for the future of the West Bank and for the viability of a Palestinian state, and say the European Union cannot remain silent in the face of what they describe as a large-scale assault.",
+    "Their demands are threefold: that the EU condemn the measures, that it call for the withdrawal of Israeli forces from the West Bank, and that foreign ministers meet urgently to reach agreement on sanctions. Sanctions require unanimity among the 27 member states, which is why the letter asks for a ministerial meeting and not for a decision by Kallas herself.",
+    "By the time the letter was sent, according to figures from Hebron officials quoted by WAFA, 619 families had been affected by the operation, about 3,971 people had been displaced and 85 arrested. The UN human rights chief, Volker Türk, said the same day that the operation raised grave concerns of disproportionate force and that collective punishment is a grave violation of international law.",
+    "The EU has not announced such a meeting. On 10 November it repeated its demand that Israel ensure the delivery of humanitarian aid to Gaza, WAFA reported. Other governments have moved separately: the British foreign secretary said in October that the UK had created powers to sanction companies involved in building settlements in the E1 area, and twelve countries announced restrictions on settlement products in September, according to a chronology of the year."
+   ],
+   "subheads": {
+    "1": "'Collective punishment'",
+    "3": "Three demands"
+   },
+   "date": "2026-10-27T11:07:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176373"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/10/1168672"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176067"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/European_Parliament_hemicycle_Strasbourg_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:European_Parliament_hemicycle_Strasbourg_(cropped).jpg",
+    "credit": "Gzen92 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "caption": "Archive: the European Parliament's chamber in Strasbourg, June 2021."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "what-did-un-commission-of-inquiry-find",
+   "section": "analysis",
+   "tag": "International law",
+   "place": "New York",
+   "title": "What did the UN Commission of Inquiry conclude in its October report on the West Bank and Gaza?",
+   "short": "What did the UN inquiry's October report find?",
+   "kind": "ask",
+   "gist": "The commission found war crimes and crimes against humanity in the West Bank and said genocidal acts continue in Gaza; Israel rejects this.",
+   "body": [
+    "The Independent International Commission of Inquiry on the Occupied Palestinian Territory, including East Jerusalem, and Israel presented its latest report to the UN General Assembly on Monday 26 October. Its headline finding is that Israel has committed war crimes and the crimes against humanity of extermination, persecution, torture, rape and other forms of sexual violence against Palestinians, and that it continues to commit genocide in Gaza after the ceasefire of October 2025.",
+    "The commission was set up by the UN Human Rights Council in 2021 and is chaired by Srinivasan Muralidhar. Its members are independent experts; they are not UN staff and are not paid for the work. This report concentrates on killings and on bodily and mental harm attributed to state actors, and devotes most of its new material to the West Bank.",
+    "There, the commission says, the situation has deteriorated gravely since 7 October 2023. One of its statistics concerns air power: six Palestinians were killed by air strikes in the West Bank between 2008 and 6 October 2023, and 254 between 7 October 2023 and 30 September 2026. It concludes that military operations and sustained settler violence together amount to a widespread and systematic attack on civilians, and that the authorities intended them to work in concert.",
+    "The report describes military operations since January 2025 as having caused the largest displacement of Palestinians in the West Bank since 1967, with 34,176 people still displaced in August 2026. It finds that children have been deliberately killed and harmed, which it classes as persecution on grounds of age, and that sexual violence has been used to displace and subjugate.",
+    "On Gaza, the commission says Israeli authorities and forces have continued to commit genocidal acts since the ceasefire, with intent to destroy Palestinians in whole or in part, and that the expansion of Israeli territorial control results in the killing of people who approach or cross the so-called yellow line. Muralidhar said the pattern forms part of a broader strategy to displace Palestinians and impose unliveable conditions.",
+    "Israel rejected the report. Its permanent mission in Geneva called it yet another manifestation of a misinformation campaign to demonise the State of Israel. Israel does not cooperate with the commission and has long accused it of bias. The commission's findings are not binding; it recommends that Israel comply with the International Court of Justice's advisory opinion of July 2024, end the occupation, remove settlements and return confiscated land to its owners."
+   ],
+   "subheads": {
+    "1": "Who the commissioners are",
+    "2": "The West Bank findings",
+    "5": "Israel's response"
+   },
+   "date": "2026-10-26T18:20:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176354"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/10/1168672"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/UN_Geneva_Human_Rights_and_Alliance_of_Civilizations_Room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:UN_Geneva_Human_Rights_and_Alliance_of_Civilizations_Room.jpg",
+    "credit": "Ludovic Courtès / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "caption": "Archive: the Human Rights and Alliance of Civilizations Room at the UN in Geneva, where the Human Rights Council meets, August 2015."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "ben-gvir-al-aqsa-visit-election-eve",
+   "section": "jerusalem",
+   "tag": "Al-Aqsa",
+   "place": "Al-Aqsa Mosque compound",
+   "title": "Ben-Gvir enters Al-Aqsa compound on the eve of Israel's election, drawing protests from Cairo and Doha",
+   "short": "Ben-Gvir at Al-Aqsa on election eve; Egypt, Qatar protest",
+   "kind": "say",
+   "gist": "Israel's national security minister entered the Al-Aqsa compound under guard on 26 October, a day before the vote; Egypt and Qatar condemned it.",
+   "body": [
+    "Israel's national security minister, Itamar Ben-Gvir, entered the Al-Aqsa Mosque compound in Jerusalem's Old City under heavy police guard on Monday 26 October, the day before Israel's parliamentary election. The Palestinian Authority's Jerusalem Governorate said he was accompanied by the Knesset member Moshe Feiglin. It was his third reported entry in two months, after visits on 31 August and on 28 September, when he came with the defence minister, Israel Katz, during the Jewish festival of Sukkot.",
+    "The compound, known to Jews as the Temple Mount, is administered by a Jordanian-backed Islamic trust under an arrangement usually called the status quo: non-Muslims may visit at set times but only Muslims may pray there. Ben-Gvir has said openly that he wants Jewish prayer on the site expanded. Palestinians, and the governments that responded on Monday, see each visit as a step towards changing that arrangement.",
+    "Egypt's foreign ministry condemned the entry, which it said took place alongside hundreds of settlers and under police protection, as a flagrant violation of the sanctity of Islamic holy sites and of the historical and legal status quo in East Jerusalem. Cairo said it rejected any attempt to divide the mosque by time or by space and called on other governments to act.",
+    "Qatar's foreign ministry called the visit an unacceptable provocation to Muslims around the world and said all unilateral measures aimed at altering the status of Jerusalem and its holy places are void under international law. Both statements were carried by WAFA. The timing, hours before polls opened, was noted in Palestinian commentary as part of a campaign in which right-wing parties competed over hard-line positions.",
+    "The election changed the political picture around the minister. On 8 November President Isaac Herzog formally asked Gadi Eizenkot, leader of the Yashar party, to form a government after he was recommended by 67 members of the Knesset against 46 for Benjamin Netanyahu, WAFA reported. Coalition talks are continuing, and the present government, including Ben-Gvir, remains in office in a caretaker capacity until a new one is sworn in.",
+    "Entries by groups of religious nationalist Israelis have continued in the meantime. On the morning of Tuesday 10 November, local sources told WAFA, dozens entered through the Mughrabi Gate under police protection and performed religious rituals in the eastern part of the compound, near the Dome of the Rock. Egypt had issued a further condemnation of such entries two days earlier."
+   ],
+   "subheads": {
+    "1": "What the status quo is",
+    "2": "Cairo and Doha respond",
+    "4": "After the vote"
+   },
+   "date": "2026-10-26T15:01:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176341"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176364"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176743"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Jerusalem-Al-Aqsa-Moschee-30-Moslems-2010-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Jerusalem-Al-Aqsa-Moschee-30-Moslems-2010-gje.jpg",
+    "credit": "Gerd Eichmann / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "caption": "Archive: worshippers in the south-western courtyard of the Al-Aqsa Mosque compound, March 2010."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "palestinian-womens-day-in-numbers-2026",
+   "section": "analysis",
+   "tag": "Women",
+   "place": "Ramallah",
+   "title": "Palestinian Women's Day in numbers: what official statistics say about 2.75 million women and girls",
+   "short": "Palestinian Women's Day, in seven numbers",
+   "kind": "list",
+   "gist": "For Women's Day on 26 October, the statistics bureau reported that women head about a quarter of Gaza's households and 28,560 are widowed.",
+   "body": [
+    "2.75 million. That is the number of women and girls in Palestine at the end of 2025, about 49 per cent of the population, according to figures released for Palestinian Women's Day on 26 October by the Palestinian Central Bureau of Statistics and the Ministry of Women's Affairs. Of these, 1.69 million live in the West Bank and 1.06 million in Gaza. The joint release sets out what three years of war have done to their lives.",
+    "12,500. More than this many women have been killed in Gaza since October 2023, among 74,382 deaths recorded by the Ministry of Health up to 12 October 2026, the release says. More than 9,000 of them were mothers, and 42 were journalists. Women account for about 14 per cent of the 175,416 people recorded as injured. In the West Bank, 28 women are among 1,216 Palestinians killed in the same period.",
+    "28,560. That many women in Gaza have been widowed by the war. The share of households headed by a woman rose from 12 per cent before the war to about 18 per cent by October 2025. UN Women data for 2026, cited in the release, put the number of female-headed households at about 86,290, nearly a quarter of all households in Gaza once women whose husbands are missing, detained or severely injured are included.",
+    "50,000. An estimated 50,000 women in Gaza are pregnant, with up to 180 births a day, while about 94 per cent of health facilities have been damaged or destroyed. In the first half of 2026, the release says, more than 3,950 pregnancy losses were recorded, 57.1 per cent of pregnant women were anaemic and 49.2 per cent of births were by caesarean section. About 24,600 pregnant and breastfeeding women are acutely malnourished.",
+    "5.9. The death rate among women of reproductive age in Gaza reached 5.9 per 1,000 in 2025, against 0.7 per 1,000 in 2022. The figure comes from the same release and is the starkest single measure in it: an eightfold increase in three years among women aged roughly 15 to 49, which the bureau attributes to the collapse of health and living conditions.",
+    "87. That was the number of women in Israeli prisons on 12 October, 21 of them held in administrative detention without charge, out of about 9,300 Palestinian detainees. Prisoners' organisations count 800 women among more than 26,000 arrests in the West Bank since October 2023. By 10 November the Palestinian detainees' commission put the number of women held at 90, three of them minors.",
+    "2,400. In the West Bank, the release says, demolitions and confiscations of more than 4,750 structures between October 2023 and September 2026 displaced over 8,660 people, of whom 2,400 were women and about 3,700 children. The ministry's conclusion is about policy as much as loss: it wants women involved in setting priorities for relief and reconstruction. In May it launched a national observatory to monitor violence against women."
+   ],
+   "subheads": {
+    "2": "Households without men",
+    "3": "Pregnancy in a collapsed health system",
+    "5": "Prison and displacement"
+   },
+   "date": "2026-10-26T11:00:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176322"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176833"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/3_December_2024%2C_Ramallah%2C_West_Bank._International_Development_Minister_Anneliese_Dodds_meets_Palestinian_women_leading_businesses_and_cooperatives_supported_by_the_UK-funded_Tasdeer_programme_in_Ramallah_%2854181714319%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:3_December_2024,_Ramallah,_West_Bank._International_Development_Minister_Anneliese_Dodds_meets_Palestinian_women_leading_businesses_and_cooperatives_supported_by_the_UK-funded_Tasdeer_programme_in_Ramallah_(54181714319).jpg",
+    "credit": "Foreign, Commonwealth & Development Office / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "caption": "Archive: Palestinian women who run businesses and cooperatives meet a visiting British minister in Ramallah, 3 December 2024."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "silwan-excavations-tunnels-homes-wadi-hilweh",
+   "section": "jerusalem",
+   "tag": "Heritage",
+   "place": "Silwan",
+   "title": "Jerusalem Governorate says tunnelling under Silwan is cracking homes and rewriting the area's history",
+   "short": "Governorate: tunnels under Silwan are cracking homes",
+   "kind": "say",
+   "gist": "The Palestinian Jerusalem Governorate says excavations beneath Wadi Hilweh have caused cracks and collapses and serve a selective narrative.",
+   "body": [
+    "Excavations and tunnel construction are continuing beneath Silwan, the Palestinian neighbourhood just south of the Old City walls, and are putting homes at risk, the Palestinian Authority's Jerusalem Governorate said in a statement on 25 October. It singled out the Wadi Hilweh area, where Israeli authorities and settler organisations have dug for years under and between houses, and where an archaeological park run by a settler group draws large numbers of visitors.",
+    "The governorate said reports have documented cracks, partial collapses and structural damage in houses above the excavation sites. It framed the issue as one of safety and of residents' ability to stay in their homes, rather than of heritage alone. The statement did not give a figure for the number of buildings affected, and the claims could not be checked independently.",
+    "Its second complaint concerns method. The governorate said the bodies directing the digs choose where to excavate in order to support a particular historical narrative, concentrating on layers associated with the 10th century BCE while giving little attention to other periods that reflect the succession of civilisations in Jerusalem. Finds are tied to biblical accounts and sites are given biblical names, it said.",
+    "In the governorate's words, that turns archaeology from a scientific effort to understand the city's past across different eras into a tool for advancing a political narrative and justifying the takeover of land. The WAFA report that carried the statement did not include a response from the Israeli authorities or from the organisations that run the excavations, and none was available at the time of writing.",
+    "The works are spread across what planners call the Holy Basin, the area between the Old City and the Mount of Olives. The governorate listed the neighbourhoods of Silwan, Wadi Hilweh, al-Bustan and Wadi al-Rababa and said the projects reach north towards Sheikh Jarrah. Several of them, al-Bustan in particular, have also seen Palestinian homes demolished in recent weeks, the governorate says.",
+    "Above ground, the same streets saw two demolitions in the days after the statement. On 28 October a resident of Silwan's Ein al-Lawza area was made to demolish his own house, and on 4 November bulldozers destroyed an 80-square-metre house in al-Bustan that had stood for 25 years, damaging roads and uprooting trees to reach it, the governorate said. Its owner, Suleiman Abu Subaih, lived there with his wife."
+   ],
+   "subheads": {
+    "2": "Which past gets dug",
+    "4": "The 'Holy Basin'"
+   },
+   "date": "2026-10-25T14:08:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176255"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176654"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176407"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Silwan_from_across_the_valley_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Silwan_from_across_the_valley_2.jpg",
+    "credit": "MMO:VAS Monoliths / Wikimedia Commons",
+    "license": "CC0",
+    "caption": "Archive: houses of Silwan seen from across the Kidron Valley, April 2023."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "book-documents-palestinian-libraries-archives-1948-1993",
+   "section": "diaspora",
+   "tag": "Books",
+   "place": "Ramallah",
+   "title": "New international volume documents the fate of Palestinian libraries and archives from 1948 to 1993",
+   "short": "New book traces the history of Palestinian libraries",
+   "kind": "say",
+   "gist": "'Resisting Erasure', from Library Juice Press, includes Anan Hamad's study of Palestinian libraries and archives under occupation, 1948-1993.",
+   "body": [
+    "A new book from the international publisher Library Juice Press sets out to document what has happened to Palestinian libraries and archives over the past three quarters of a century. 'Resisting Erasure: Libraries in Palestine and Palestine in Libraries' includes a full-length study by the Palestinian researcher Anan Hamad, 'History of Palestinian Libraries and Archives Under Israeli Occupation (1948-1993)', WAFA reported on 19 October.",
+    "Hamad's study follows libraries and archival collections from their origins through the decades after 1948, up to the year of the Oslo accords. It examines how they were founded and developed, the obstacles they faced under Israeli occupation, and the targeting and looting of major intellectual and archival collections, according to the agency's description of the work. It covers 45 years in all.",
+    "The volume as a whole looks in two directions, as its title suggests: at libraries inside Palestine, and at how Palestine is represented, catalogued and collected in libraries elsewhere. For researchers abroad and for Palestinians in the diaspora who depend on foreign collections to study their own history, the second question is as practical as the first, because it decides what can be found.",
+    "WAFA describes the study as a contribution to documenting national memory and preserving cultural and intellectual heritage, and as a reference for future generations of researchers interested in the country's history. Including it in full in an English-language academic book, the agency notes, places Palestinian knowledge resources before an international readership that might not otherwise encounter research by Palestinian scholars.",
+    "The book appears at a time of heavy losses to cultural institutions. The UN's special rapporteur on the occupied Palestinian territory, Francesca Albanese, told reporters on 27 October that about 150 media centres and offices in Gaza have been destroyed, some 80 per cent of the territory's media infrastructure. The Palestinian delegate to UNESCO told its executive board in October that education and culture in Gaza had been hit across the organisation's whole mandate.",
+    "Interest in the field is growing in universities. On the day the book was announced, the University of Barcelona launched Spain's first chair in Palestine studies, with research on heritage among its stated aims. Hamad's history ends in 1993; the story of what has happened to Palestinian libraries, archives and their catalogues since then, including during the past three years in Gaza, is still being written."
+   ],
+   "subheads": {
+    "2": "Palestine in other people's libraries",
+    "4": "Collections lost"
+   },
+   "date": "2026-10-19T15:31:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176072"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/10/1168685"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176068"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Khalidi_Library_4465.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Khalidi_Library_4465.jpg",
+    "credit": "יעקב (Yaakov) / Wikimedia Commons",
+    "license": "CC0",
+    "caption": "Archive: the Khalidi Library, a Palestinian family library founded in Jerusalem's Old City in 1900, photographed in December 2025. It is shown as an example and is not the subject of the book."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "palestinian-kickboxers-eight-medals-tashkent-world-cup",
+   "section": "diaspora",
+   "tag": "Sport",
+   "place": "Tashkent",
+   "title": "Palestinian kickboxers bring home two golds and six bronzes from the World Cup in Tashkent",
+   "short": "Palestinian kickboxers win eight medals in Tashkent",
+   "kind": "say",
+   "gist": "Abdullah Kanaan and Mohammad Alyan won gold as Palestine's 27-strong team took eight medals at the kickboxing World Cup in Uzbekistan.",
+   "body": [
+    "Palestine's kickboxing team finished the World Cup for national teams and clubs in Tashkent with two gold medals and six bronze, WAFA reported on 19 October. The tournament in the Uzbek capital brought together around 3,000 athletes from 77 teams. Abdullah Kanaan won gold in the senior category and Mohammad Alyan took gold among the juniors, giving the team a title at each level.",
+    "The six bronze medals went to Mustafa Sharaf, Anas al-Qaq, Mohammad Oweisat, Ahmad Sbeih, Yahya Jabr and Waad Bkeirat. The delegation numbered 27 male and female athletes and was led by Nizar Taleb, vice-president of the Palestinian Kickboxing Federation, with federation board members Tamer Bakr and Wasim Shamlawi on the administrative staff. WAFA did not list the weight classes in which the medals were won.",
+    "The squad was drawn from seven clubs and training centres, a list that reads like a map of the West Bank and Jerusalem: Aswar Beit al-Maqdis Club, the Al-Bustan Silwan Association, Be Strong Gym, Silwad Sports Club, Meithalun Sports Club, the Champions Center for Martial Arts and Target One MMA. Silwad lies north-east of Ramallah and Meithalun south of Jenin; al-Bustan is a neighbourhood of Silwan, in East Jerusalem.",
+    "Palestine's ambassador to Uzbekistan, Wael al-Batrikhi, congratulated the federation and put the result in the context of the year. Across five international competitions in 2026, he said, the national team has won 17 gold, 18 silver and 14 bronze medals. The federation says taking part in such events is part of a plan to develop the national squads and raise Palestine's presence in international sport.",
+    "It was a good week for Palestinian combat sports. On 18 October Maryam Bsharat won gold in the junior women's under-66kg kumite at the World Cadet, Junior and Under-21 Karate Championships in Poland, according to a chronology of the year's events. The two results came within twenty-four hours of each other, on different continents, in two different martial arts and at two different age levels.",
+    "The clubs behind the medals work in difficult conditions. Less than three weeks later, on 5 November, Israeli authorities closed the Sons of Jerusalem Club, a sports and social club in the Old City, by ministerial order, and on 10 November police renewed the closure of the Burj al-Laqlaq youth centre for six months. The Palestinian Authority's Jerusalem Governorate described both steps as narrowing the space for sport in the city."
+   ],
+   "subheads": {
+    "2": "Seven clubs, one team",
+    "4": "A golden week"
+   },
+   "date": "2026-10-19T15:08:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176071"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2026_in_Palestine"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176676"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/WAKO-PRO_Weltmeisterschaft_309.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:WAKO-PRO_Weltmeisterschaft_309.jpg",
+    "credit": "Claus Michelfelder / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "caption": "Archive: a kickboxing world title bout in Rödental, Germany, November 2011. It shows the sport, not the Palestinian team or the Tashkent event."
+   },
+   "minutes": 2,
+   "has_photo": true
+  },
+  {
+   "id": "barcelona-university-first-palestine-studies-chair",
+   "section": "diaspora",
+   "tag": "Academia",
+   "place": "Barcelona",
+   "title": "University of Barcelona launches Spain's first academic chair dedicated to Palestine studies",
+   "short": "Barcelona launches Spain's first Palestine studies chair",
+   "kind": "say",
+   "gist": "The UB-Fundacions Ferrer Chair for Palestine Studies was inaugurated in Barcelona with An-Najah's Sanaa Alsarghali taking part.",
+   "body": [
+    "The University of Barcelona has inaugurated what it describes as the first academic chair in Spain devoted to Palestine studies. The UB-Fundacions Ferrer Chair for Palestine Studies was launched in cooperation with the Fundacions Ferrer group of foundations, WAFA reported on 19 October. The university's rector, Professor Joan Guàrdia, attended the ceremony alongside Palestine's ambassador to Spain, Fadi al-Husseini, the agency said in a dispatch from Barcelona.",
+    "The chair is intended to promote Palestine studies in European universities and to support interdisciplinary research on Palestinian history, society, culture and heritage as well as political and legal questions. Guàrdia spoke at the ceremony about the part universities play in advancing knowledge and human rights, and about widening academic cooperation with Palestinian institutions, according to the agency's account of the event.",
+    "Dr Sanaa Alsarghali took part in the launch. She is an associate professor of constitutional law at An-Najah National University in Nablus and holds the UNESCO Chair for Human Rights, Democracy and Peace there. She stressed the importance of cooperation between Palestinian and European universities, of support for Palestinian research, and of raising the international profile of Palestinian scholarship and identity.",
+    "Alsarghali also drew attention to the conditions under which Palestinian higher education operates and argued that international partnerships are one of the ways to sustain it. The difficulties are practical as well as financial. On 27 October Israeli authorities turned back a 23-member international delegation of parliamentarians and academics at the Allenby crossing as it travelled to a conference at Birzeit University, the university said.",
+    "The Barcelona chair arrives as international bodies pay closer attention to Palestinian education. WAFA reported the same day that UNESCO's executive board, meeting in Paris for its 225th session, had unanimously adopted two resolutions: one on the effects of the situation in Gaza on education, science and culture, and one supporting the continuation of schooling provided by the UN agency for Palestine refugees.",
+    "Spain recognised the State of Palestine in 2024, and the ambassador's presence at the ceremony gave the launch a diplomatic as well as an academic character. For Palestinians living in Catalonia and for Spanish students, a university chair offers something more durable than a single conference or exhibition: a standing programme whose purpose is to teach, research and publish on Palestine from one academic year to the next."
+   ],
+   "subheads": {
+    "2": "A constitutional lawyer from Nablus",
+    "4": "UNESCO votes the same day"
+   },
+   "date": "2026-10-19T14:31:00+02:00",
+   "age": "a-rec",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176068"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176374"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176063"
+    }
+   ],
+   "photo": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Edifici_hist%C3%B2ric_de_la_Universitat_de_Barcelona%2C_garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Edifici_hist%C3%B2ric_de_la_Universitat_de_Barcelona,_garden.jpg",
+    "credit": "Léna / Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "caption": "Archive: a courtyard garden in the University of Barcelona's historic building, July 2011."
+   },
+   "minutes": 2,
+   "has_photo": true
+  }
+ ]
+}
