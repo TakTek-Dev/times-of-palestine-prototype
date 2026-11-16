@@ -128,3 +128,67 @@
 .st-more{width:min(100% - 2*var(--pad),1100px);margin-inline:auto;padding-block:10px 50px}
 @media (max-width:980px){.st{grid-template-columns:minmax(0,680px)}.st-side{display:none}}
 @media (max-width:640px){.st-hero{block-size:auto;min-block-size:0;aspect-ratio:390/300;border-radius:0 0 46px 0}.st-hero h1{font-size:19px;padding-block-end:16px}.st-acts button,.st-acts a{inline-size:36px;block-size:36px}}
+
+/* rail groups and small links */
+.fd-small{display:flex;flex-wrap:wrap;gap:2px 4px;padding:6px 4px 0}
+.fd-rail a.sm{display:inline-flex;padding:6px;font-size:12.5px;color:var(--text-3);font-weight:500}
+.fd-rail a.sm[aria-current]{box-shadow:none;color:var(--text);font-weight:700}
+a.pill:hover{background:var(--ink);color:#fff}
+.fd-by b a:hover,.fd-when a:hover{text-decoration:underline;text-underline-offset:3px}
+.fd-when{display:block;font-size:12px;color:var(--text-3)}
+.fd-when time{display:inline}
+.fd-when a{color:var(--text-2)}
+.fd-head h1.is-live .lf{animation:pulse 1.8s ease-in-out infinite}
+@keyframes pulse{50%{transform:scale(.7);opacity:.5}}
+.fd-page{max-inline-size:none;padding:4px 4px 30px;font-size:17.5px}
+.fd-page h2:first-child{margin-block-start:.4em}
+
+/* live */
+.lv-date{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--text-3);margin:26px 4px 10px}
+.lv-day:first-child .lv-date{margin-block-start:6px}
+.lv{position:relative;display:grid;gap:4px;padding-inline-start:0}
+.lv::before{content:"";position:absolute;inset-block:10px;inset-inline-start:66px;inline-size:2px;background:var(--line)}
+.lv-item{position:relative;display:grid;grid-template-columns:52px 28px 1fr;gap:0 8px;align-items:start;padding:12px 14px 14px 4px;border-radius:8px 24px;transition:background .2s}
+.lv-item:hover{background:var(--mist)}
+.lv-item time{font-weight:700;font-size:14px;padding-block-start:3px;font-variant-numeric:tabular-nums}
+.lv-item>.lf{inline-size:26px;margin-block-start:5px;position:relative;z-index:1;outline:4px solid var(--paper);background-color:currentColor}
+.lv-item.a-rec>.lf{color:var(--text)}
+.lv-item div{min-inline-size:0;font-size:13px;color:var(--text-3)}
+.lv-tag{font-weight:700;color:var(--green);text-transform:lowercase}
+.lv-item h2{font-size:18px;line-height:1.25;font-weight:700;margin-block:4px 6px;color:var(--text)}
+.lv-item h2 a:hover{color:var(--green)}
+.lv-item p{font-size:15px;line-height:1.5;color:var(--text-2)}
+.lv-src{display:block;margin-block-start:6px;font-size:12.5px}
+
+/* archive */
+.ac{border:1px solid var(--line);border-radius:10px 30px;padding:16px;margin-block-end:8px}
+.ac-week,.ac-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:6px}
+.ac-week span{font-size:11.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--text-3);text-align:center;padding-block-end:4px}
+.ac-day{position:relative;aspect-ratio:1/.8;border-radius:5px 14px;background:var(--mist);display:grid;align-content:start;padding:6px 8px;overflow:hidden;color:var(--text-3)}
+.ac-day b{position:relative;z-index:1;font-size:13px;font-weight:700}
+a.ac-day{color:var(--text);transition:background .2s}
+a.ac-day:hover{background:var(--green-soft)}
+.ac-day i{position:absolute;inset:auto 0 0 0;background:var(--green);opacity:.85}
+.ac-day.off{opacity:.35}
+.ac-note{font-size:12.5px;color:var(--text-3);margin-block-start:10px}
+.ac-list{scroll-margin-top:90px}
+
+/* places */
+.pl-box{margin-block-end:6px}
+
+/* photos */
+.pg{columns:2;column-gap:14px}
+.pg-item{break-inside:avoid;margin-block-end:18px;display:grid;gap:8px}
+.pg-pic{display:block;border-radius:8px 26px;overflow:hidden;background:var(--mist)}
+.pg-item:nth-child(even) .pg-pic{border-radius:26px 8px}
+.pg-pic img{inline-size:100%;block-size:auto;transition:transform .8s var(--ease)}
+.pg-pic:hover img{transform:scale(1.04)}
+.pg-item figcaption{display:grid;gap:4px;font-size:13px;color:var(--text-3);line-height:1.45;padding-inline:2px}
+.pg-title{font-size:15px;font-weight:700;color:var(--text);line-height:1.3}
+.pg-title:hover{color:var(--green)}
+.pg-item small a{text-decoration:underline;text-underline-offset:3px}
+
+/* discover grid */
+.ds-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(46%,190px),1fr));gap:12px}
+.feedmode .find{max-inline-size:none}
+@media (max-width:640px){.pg{columns:1}.lv::before{inset-inline-start:58px}.lv-item{grid-template-columns:44px 28px 1fr}}

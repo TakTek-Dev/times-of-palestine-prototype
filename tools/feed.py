@@ -8,7 +8,7 @@ replaces those files.
 
 Run through build.py.
 """
-import datetime, json
+import datetime, json, re, shutil
 
 import build
 from build import LF, e, ic
@@ -18,11 +18,20 @@ build.ICONS.update({
     "flag": '<path d="M5 21V4"/><path d="M5 4h11l-2 4 2 4H5"/>',
     "chart": '<path d="M4 20h16"/><path d="M7 16v-5M12 16V7M17 16v-8"/>',
     "up": '<path d="M12 19V5M6 11l6-6 6 6"/>',
+    "live": '<circle cx="12" cy="12" r="2.500"/><path d="M7.800 7.800a6 6 0 0 0 0 8.400M16.200 7.800a6 6 0 0 1 0 8.400M5 5a10 10 0 0 0 0 14M19 5a10 10 0 0 1 0 14"/>',
+    "map": '<path d="M9 4L3 6v14l6-2 6 2 6-2V4l-6 2z"/><path d="M9 4v14M15 6v14"/>',
+    "tag": '<path d="M3 12V4h8l10 10-8 8z"/><circle cx="7.500" cy="7.500" r="1.200"/>',
+    "camera": '<rect x="3" y="7" width="18" height="13" rx="3"/><path d="M9 7l1.500-3h3L15 7"/><circle cx="12" cy="13.500" r="3.500"/>',
+    "calendar": '<rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/>',
 })
 
-RAIL = [("index.html", "home", "home"), ("discover.html", "discover", "discover"), ("gaza.html", "gaza", "pin"), ("west-bank.html", "west bank", "pin"),
-        ("jerusalem.html", "jerusalem", "pin"), ("diaspora.html", "diaspora", "globe"), ("solidarity.html", "solidarity", "flag"),
-        ("analysis.html", "analysis", "chart"), ("explained.html", "explained", "explain"), ("search.html", "search", "search")]
+RAIL = [[("index.html", "home", "home"), ("live.html", "live", "live"), ("discover.html", "discover", "discover")],
+        [("gaza.html", "gaza", "pin"), ("west-bank.html", "west bank", "pin"), ("jerusalem.html", "jerusalem", "pin"), ("diaspora.html", "diaspora", "globe"),
+         ("solidarity.html", "solidarity", "flag"), ("analysis.html", "analysis", "chart")],
+        [("explained.html", "explained", "explain"), ("places.html", "places", "map"), ("topics.html", "topics", "tag"), ("photos.html", "photos", "camera"),
+         ("archive.html", "archive", "calendar"), ("search.html", "search", "search")]]
+SMALL = [("about.html", "about"), ("standards.html", "standards"), ("contact.html", "contact"), ("privacy.html", "privacy")]
+
 
 SCRIPT = """<script>
 (()=>{const up=document.querySelector('.fd-up');if(up){addEventListener('scroll',()=>up.classList.toggle('on',scrollY>900),{passive:true});up.addEventListener('click',()=>scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'}))}
@@ -48,17 +57,27 @@ def desk(s):
     return build.SECTIONS[s["section"]]["name"] + " desk"
 
 
-def byline(s):
-    return f'<span class="fd-by"><span class="fd-ava {s["age"]}" aria-hidden="true">{LF}</span><span><b>{e(desk(s))}</b>{stamp(s)}</span></span>'
+def place_slug(s):
+    return build.slug(s["place"]) if s.get("place") else ""
+
+
+def byline(s, base=""):
+    where = f' · <a href="{base}place/{place_slug(s)}.html">{e(s["place"])}</a>' if s.get("place") else ""
+    return (f'<span class="fd-by"><span class="fd-ava {s["age"]}" aria-hidden="true">{LF}</span><span><b><a href="{base}{s["section"]}.html">{e(desk(s))}</a></b>'
+            f'<span class="fd-when">{stamp(s)}{where}</span></span></span>')
+
+
+def pill(s, base):
+    return f'<a class="pill {s["age"]}" href="{base}topic/{build.slug(s["tag"])}.html">{LF}{e(s["tag"])}</a>'
 
 
 def feed_card(s, base):
     url = build.href(s, base)
     pic = (f'<img src="{base}assets/img/{s["id"]}.webp" alt="" width="1120" height="700" loading="lazy" decoding="async">' if s["has_photo"] else LF)
     return (f'<article class="fd-card rv"><a class="fd-pic{"" if s["has_photo"] else " none"}" href="{url}" tabindex="-1" aria-hidden="true">{pic}</a>'
-            f'<span class="pill {s["age"]}">{LF}{e(s["tag"])}</span>'
+            f'{pill(s, base)}'
             f'<div class="fd-body"><h2><a href="{url}">{e(s["short"])}</a></h2><p class="fd-gist">{e(s["gist"])}<span class="fd-more" aria-hidden="true">...more</span></p></div>'
-            f'<div class="fd-foot">{byline(s)}'
+            f'<div class="fd-foot">{byline(s, base)}'
             f'<button class="fd-share" type="button" data-share="native" data-url="{url}" data-title="{e(s["short"])}"><span>share</span>{ic("share")}</button></div></article>')
 
 
@@ -99,8 +118,9 @@ def side(base):
 
 
 def layout(main, active, base):
-    rail = "".join(f'<a href="{base}{h}"{" aria-current=\"page\"" if h == active else ""}>{ic(i)}{n}</a>' for h, n, i in RAIL)
-    return (f'<div class="fd"><nav class="fd-rail" aria-label="Sections">{rail}<hr><small>Red is today, green is this week, black is on the record.</small></nav>'
+    rail = "<hr>".join("".join(f'<a href="{base}{h}"{" aria-current=\"page\"" if h == active else ""}>{ic(i)}{n}</a>' for h, n, i in group) for group in RAIL)
+    small = "".join(f'<a class="sm" href="{base}{h}"{" aria-current=\"page\"" if h == active else ""}>{n}</a>' for h, n in SMALL)
+    return (f'<div class="fd"><nav class="fd-rail" aria-label="Sections">{rail}<hr><small>Red is today, green is this week, black is on the record.</small><div class="fd-small">{small}</div></nav>'
             f'<div class="fd-main">{main}</div>{side(base)}</div><button class="fd-up" type="button" aria-label="Back to top">{ic("up")}</button>')
 
 
@@ -131,7 +151,7 @@ def story_pages():
         base = "../"
         sec = build.SECTIONS[s["section"]]
         hero_img = f'<img src="{base}assets/img/{s["id"]}.webp" alt="" width="1120" height="700" fetchpriority="high">' if s["has_photo"] else ""
-        hero = (f'<header class="st-hero{"" if s["has_photo"] else " none"}">{hero_img}<span class="pill {s["age"]}">{LF}{e(s["tag"])}</span>'
+        hero = (f'<header class="st-hero{"" if s["has_photo"] else " none"}">{hero_img}{pill(s, base)}'
                 f'<div class="st-acts"><button type="button" data-share="native" aria-label="Share this story"><span class="vh">share</span>{ic("share")}</button>'
                 f'<a href="#src" aria-label="Sources">{ic("link")}</a></div><h1>{e(s["title"])}</h1></header>')
         cap = ""
@@ -152,7 +172,7 @@ def story_pages():
         nxt = stories[(n + 1) % len(stories)]
         latest = [x for x in stories if x["has_photo"] and x["id"] != s["id"]][:4]
         label = "The short answer" if s["kind"] == "ask" else "In one line"
-        main = (f'<div class="st"><article><div class="st-by">{byline(s)}<span class="st-read">{s["minutes"]} min read</span></div>'
+        main = (f'<div class="st"><article><div class="st-by">{byline(s, base)}<span class="st-read">{s["minutes"]} min read</span></div>'
                 f'<div class="st-syn rv"><small>{LF}{label}</small>{e(s["gist"])}</div>{cap}'
                 f'<div class="prose">{prose}</div>'
                 f'<section class="onrecord" aria-labelledby="src"><h2 id="src"><i class="lf a-rec"></i>On the record</h2><ul>{sources}</ul>'
@@ -172,6 +192,153 @@ def story_pages():
                                                          image=s["id"] if s["has_photo"] else None, extra_head=extra, active=f"{s['section']}.html"))
 
 
+# ------------------------------------------------------------------ the other pages, on the same layout
+def page(path, word, main, base="", active="", title=None, desc="", line="", crumb="", script="", live=False):
+    now = build.NOW
+    head_html = (f'{crumb}<div class="fd-head"><h1 class="word big{" is-live" if live else ""}">{e(word)}{LF}</h1>'
+                 f'<time datetime="{now.isoformat()}">{now.strftime("%b")} {now.day}, {now.year} | {now.strftime("%I:%M %p").lstrip("0")}</time></div>'
+                 f'{f"""<p class="fd-line">{line}</p>""" if line else ""}')
+    body = layout(head_html + main, active, base) + script + SCRIPT
+    build.write(path, build.shell(path, title or f"{word.title()} | {build.NAME}", desc or re.sub(r"<[^>]+>", "", line) or build.NAME, body,
+                                  active=active, base=base, extra_head=head(base), body_cls="feedmode"))
+
+
+def day_label(d):
+    delta = (build.NOW.date() - d).days
+    return "today" if delta == 0 else "yesterday" if delta == 1 else f'{d.strftime("%A").lower()} {d.day} {d.strftime("%B").lower()}'
+
+
+def live():
+    stories = build.STORIES[:16]
+    groups = {}
+    for s in stories:
+        groups.setdefault(datetime.datetime.fromisoformat(s["date"]).date(), []).append(s)
+    html = ""
+    for d, pool in groups.items():
+        items = "".join(
+            f'<li class="lv-item {s["age"]}"><time datetime="{s["date"]}">{datetime.datetime.fromisoformat(s["date"]).strftime("%H:%M")}</time>{LF}'
+            f'<div><a class="lv-tag" href="topic/{build.slug(s["tag"])}.html">{e(s["tag"])}</a>{f""" · {e(s["place"])}""" if s["place"] else ""}'
+            f'<h2><a href="{build.href(s, "")}">{e(s["short"])}</a></h2><p>{e(s["gist"])}</p>'
+            f'<span class="lv-src">Sources: {", ".join(e(x["name"]) for x in s["sources"])}</span></div></li>' for s in pool)
+        html += f'<section class="lv-day"><h2 class="lv-date">{day_label(d)}</h2><ol class="lv">{items}</ol></section>'
+    page("live.html", "live", html, active="live.html", title=f"Live | {build.NAME}",
+         line="Every update in this edition, newest first, in Jerusalem time. Red is today, green is this week.")
+
+
+def archive():
+    groups = {}
+    for s in build.STORIES:
+        groups.setdefault(datetime.datetime.fromisoformat(s["date"]).date(), []).append(s)
+    days = sorted(groups)
+    first, last = days[0], days[-1]
+    cal, d = "", first - datetime.timedelta(days=first.weekday())
+    while d <= last:
+        n = len(groups.get(d, []))
+        cal += (f'<a class="ac-day" href="#d{d.isoformat()}" style="--n:{n}"><b>{d.day}</b><i style="block-size:{min(100, n * 22)}%"></i><span class="vh">{n} stories</span></a>' if n
+                else f'<span class="ac-day{" off" if d < first else ""}"><b>{d.day}</b></span>')
+        d += datetime.timedelta(days=1)
+    cal_html = (f'<div class="ac"><div class="ac-week">{"".join(f"<span>{w}</span>" for w in ("mon", "tue", "wed", "thu", "fri", "sat", "sun"))}</div>'
+                f'<div class="ac-grid">{cal}</div><p class="ac-note">{first.day} {first.strftime("%B")} to {last.day} {last.strftime("%B %Y")} · the bar is the number of stories that day</p></div>')
+    lists = "".join(f'<section class="ac-list" id="d{d.isoformat()}"><h2 class="lv-date">{day_label(d)}</h2><div class="rows">{"".join(build.row(s, "") for s in groups[d])}</div></section>'
+                    for d in reversed(days))
+    page("archive.html", "archive", cal_html + lists, active="archive.html", title=f"Archive | {build.NAME}", line="Every story in this edition, by the day it happened.")
+
+
+def places():
+    by_place = {}
+    for s in build.STORIES:
+        if s["place"]:
+            by_place.setdefault(s["place"], []).append(s)
+    cards = ""
+    for key, sec in build.SECTIONS.items():
+        here = sorted(((p, pool) for p, pool in by_place.items() if pool[0]["section"] == key), key=lambda x: -len(x[1]))
+        if not here:
+            continue
+        cards += f'<h2 class="lv-date">{e(sec["name"].lower())}</h2><div class="fd-box pl-box">'
+        cards += "".join(f'<a class="fd-place" href="place/{build.slug(p)}.html"><i class="dotc {pool[0]["age"]}">{LF}</i><span><b>{e(p)}</b>'
+                         f'<small>{len(pool)} {"story" if len(pool) == 1 else "stories"} · latest {build.when(pool[0])}</small></span>{ic("arrow")}</a>' for p, pool in here)
+        cards += "</div>"
+    page("places.html", "places", cards, active="places.html", title=f"Places | {build.NAME}", line="Every town, camp and city in this edition, by region.")
+    for p, pool in by_place.items():
+        crumb = f'<p class="fd-crumb"><a href="../places.html">places</a>{LF}<span>{e(build.SECTIONS[pool[0]["section"]]["name"].lower())}</span></p>'
+        feed_page(f"place/{build.slug(p)}.html", p.lower(), pool, base="../", crumb=crumb, active="places.html",
+                  line=f'{len(pool)} {"story" if len(pool) == 1 else "stories"} from {p}, newest first.', blocks=False, title=f"{p} | {build.NAME}")
+
+
+def topics_index():
+    chips = "".join(f'<a class="chip" href="topic/{t}.html">{e(n)} <small>{c}</small></a>' for t, n, c in build.topics())
+    page("topics.html", "topics", f'<div class="chips">{chips}</div>', active="topics.html", title=f"Topics | {build.NAME}",
+         line="Every topic in this edition. The number is how many stories it has.")
+
+
+def photos():
+    items = ""
+    for s in build.STORIES:
+        if not s["has_photo"]:
+            continue
+        ph = s["photo"]
+        credit = f'<a href="{e(ph["page_url"])}" rel="noopener">{e(ph.get("credit", ""))}</a> · {e(ph.get("license", ""))}' if ph.get("credit") else ""
+        items += (f'<figure class="pg-item rv"><a href="{build.href(s, "")}" class="pg-pic"><img src="assets/img/{s["id"]}-s.webp" alt="{e(ph.get("caption", ""))}" width="560" height="350" loading="lazy" decoding="async"></a>'
+                  f'<figcaption><a class="pg-title" href="{build.href(s, "")}">{e(s["short"])}</a><span>{e(ph.get("caption", ""))}</span><small>{credit}</small></figcaption></figure>')
+    page("photos.html", "photos", f'<div class="pg">{items}</div>', active="photos.html", title=f"Photos | {build.NAME}",
+         line="Every photograph in this edition, with its photographer and licence. Archive photographs are marked as archive, with their year.")
+
+
+def discover():
+    picks, data = build.shorts_list()
+    grid = "".join(build.short_card(s, "", i % 4) for i, s in enumerate(picks))
+    page("discover.html", "discover", f'<div class="ds-grid">{grid}</div>', active="discover.html", title=f"Discover | {build.NAME}",
+         line="A story in three leaves: what happened, why it matters, and what is on the record. Tap right to move on, left to go back.",
+         script=build.shorts_script(data))
+
+
+def search():
+    form = (f'<form class="find" id="find" role="search" style="margin-block-start:0"><label class="vh" for="q">Search {build.NAME}</label>'
+            f'<input id="q" name="q" type="search" placeholder="Try “Nablus”, “aid” or “olive”" autocomplete="off" enterkeyhint="search">'
+            f'<button class="btn" type="submit">{ic("search")}Search</button></form><p class="count" id="count" role="status" aria-live="polite"></p>'
+            f'<div class="rows" id="results"></div><noscript><p>Search needs JavaScript. Browse the <a href="archive.html">archive</a> instead.</p></noscript>')
+    page("search.html", "search", form, active="search.html", title=f"Search | {build.NAME}", line="Every story in this edition, by place, topic or name.")
+
+
+def prose(path, word, line, inner, title):
+    page(path, word, f'<div class="page fd-page">{inner}</div>', active=path, title=f"{title} | {build.NAME}", line=line)
+
+
+def text_pages():
+    live_site = build.LIVE
+    n_src = len({x["name"] for s in build.STORIES for x in s["sources"]})
+    prose("about.html", "about", "The Times of Palestine is an English-language news site about Palestine.",
+          f'<p>The news of the day, the context behind it, and the stories of the people who live it. We report daily life as carefully as the day&#39;s events, and we say where every fact comes from.</p>'
+          f'<h2>How to read us</h2><p>The three leaves of our mark tell you when a story is from. A <b style="color:var(--red)">red</b> leaf is today. A <b style="color:var(--green)">green</b> leaf is this week. A black leaf is on the record: older, and still true.</p>'
+          f'<p>Every story opens with its answer in one line, and ends with the sources it was reported from. Questions people ask most are answered in <a href="explained.html">explained</a>.</p>'
+          f'<h2>The desks</h2><p>Stories are filed by desk: <a href="gaza.html">Gaza</a>, <a href="west-bank.html">West Bank</a>, <a href="jerusalem.html">Jerusalem</a>, <a href="diaspora.html">Diaspora</a>, <a href="solidarity.html">Solidarity</a> and <a href="analysis.html">Analysis</a>.</p>'
+          f'<p>Read our <a href="standards.html">editorial standards</a>, or <a href="contact.html">contact the newsroom</a>.</p>', "About")
+    prose("standards.html", "standards", "How we report, how we use photographs, and how we correct.",
+          f'<h2>Sources</h2><p>Every story is reported from named sources, and links to them at the end under <b>On the record</b>. This edition draws on {n_src} sources, among them UN agencies (OCHA, UN News), the Palestinian news agency WAFA and the organisers of the events we cover. Figures from a ministry, an agency or an army are attributed to the body that issued them.</p>'
+          f'<h2>Our own words</h2><p>We write every story ourselves. We do not copy a source&#39;s sentences, and we use neutral wording for contested terms while saying who uses which word.</p>'
+          f'<h2>When sources disagree</h2><p>When two sources give different numbers, we give both and say who said what, rather than picking one.</p>'
+          f'<h2>Photographs</h2><p>Photographs come with the photographer&#39;s name and the licence. A photograph that was not taken at the event is marked <b>Archive</b>, with the year it was taken. When no honest photograph exists, the story runs without one. All photographs are listed on <a href="photos.html">photos</a>.</p>'
+          f'<h2>Corrections</h2><p>Write to the newsroom from the <a href="contact.html">contact page</a>. A correction is added to the story with the date it was made.</p>', "Editorial standards")
+    prose("privacy.html", "privacy", "What this site keeps about you: very little.",
+          f'<h2>In short</h2><p>No account, no cookies, no advertising trackers and no analytics in this design prototype.</p>'
+          f'<h2>What your browser stores</h2><p>Two small notes, kept only on your device: whether you chose the dark or light theme (local storage), and whether the opening animation has already played in this visit (session storage). Clearing your browser data removes both.</p>'
+          f'<h2>Links and sharing</h2><p>Source links open other sites, which have their own privacy rules. The share button uses your device&#39;s own share sheet or copies the link; nothing is sent to us.</p>'
+          f'<h2>The live site</h2><p>The privacy notice and terms of the current site are on <a href="{live_site}/privacy" rel="noopener">paltimesnews.com</a>.</p>', "Privacy")
+    desks = "".join(f'<a href="{key}.html"><span>{e(sec["name"])} desk</span>{ic("arrow")}</a>' for key, sec in build.SECTIONS.items())
+    prose("contact.html", "contact", "Tips, corrections and questions for the newsroom.",
+          f'<h2>Write to the newsroom</h2><p>The contact form and the newsroom&#39;s addresses are on the current site.</p>'
+          f'<div class="list-links"><a href="{live_site}/contact" rel="noopener"><span>Contact form</span>{ic("out")}</a><a href="{live_site}/writers" rel="noopener"><span>Our writers</span>{ic("out")}</a></div>'
+          f'<h2>Corrections</h2><p>Tell us the story, the line and what is wrong. See how we correct in our <a href="standards.html">editorial standards</a>.</p>'
+          f'<h2>The desks</h2><div class="list-links">{desks}</div>', "Contact")
+    lost = (f'<div class="page fd-page"><p>This page fell off the stem. The stories are still where you left them.</p>'
+            f'<div class="chips" style="margin-block-start:18px"><a class="btn" href="index.html">Back to today{ic("arrow")}</a><a class="btn ghost" href="search.html">{ic("search")}Search</a></div></div>')
+    page("404.html", "lost", lost, title=f"Page not found | {build.NAME}", desc="Page not found.")
+    fix = '<script>(function(){var b=location.hostname.endsWith("github.io")?"/"+location.pathname.split("/")[1]+"/":"/";document.write(\'<base href="\'+b+\'">\')})()</script>\n'
+    p404 = build.ROOT / "404.html"
+    p404.write_text(p404.read_text(encoding="utf-8").replace('<meta charset="utf-8">', '<meta charset="utf-8">\n' + fix, 1), encoding="utf-8")
+
+
+
 def main():
     stories = build.STORIES
     feed_page("index.html", "today", stories, active="index.html", title=build.NAME,
@@ -185,6 +352,8 @@ def main():
                   line=f"{c} stories on {n.lower()}, newest first.", blocks=False, title=f"{n} | {build.NAME}")
     feed_page("explained.html", "explained", [s for s in stories if s["kind"] == "ask"], active="explained.html",
               line="You ask who, what and why. The answer in one line, before the full story.", blocks=False, title=f"Explained | {build.NAME}")
+    shutil.rmtree(build.ROOT / "place", ignore_errors=True)
+    live(); archive(); places(); topics_index(); photos(); discover(); search(); text_pages()
     story_pages()
     (build.ROOT / "feed.html").unlink(missing_ok=True)
 

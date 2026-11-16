@@ -7,7 +7,7 @@ import collections, datetime, html, json, pathlib, re
 import brand
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-V = 3  # bump after any CSS/JS change
+V = 4  # bump after any CSS/JS change
 ED = json.loads((ROOT / "research" / "edition.json").read_text(encoding="utf-8"))
 NOW = datetime.datetime.fromisoformat(ED["now"])
 SECTIONS = ED["sections"]
@@ -92,7 +92,7 @@ def slug(name):
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
 
-def topics(min_count=2):
+def topics(min_count=1):
     seen = collections.Counter(s["tag"] for s in STORIES)
     return [(slug(t), t, c) for t, c in seen.most_common() if c >= min_count]
 
@@ -115,7 +115,7 @@ def logo(height, lazy=False):
 def shell(path, title, desc, body, active="", base="", image=None, extra_head="", body_cls=""):
     nav = "".join(f'<a href="{base}{h}"{" aria-current=\"page\"" if h == active else ""}>{n}</a>' for h, n in NAV)
     tabs = "".join(f'<a href="{base}{h}"{" aria-current=\"page\"" if h == active else ""}>{ic(i)}{n}</a>' for h, n, i in TABS)
-    sheet = "".join(f'<a href="{base}{h}">{LF}{n}</a>' for h, n in NAV + [("search.html", "Search")])
+    sheet = "".join(f'<a href="{base}{h}">{LF}{n}</a>' for h, n in NAV[:1] + [("live.html", "Live")] + NAV[1:] + [("places.html", "Places"), ("photos.html", "Photos"), ("archive.html", "Archive"), ("search.html", "Search")])
     og = f'{base}assets/img/{image}.webp' if image else f'{base}assets/logo.svg'
     return f'''<!doctype html>
 <html lang="en" dir="ltr">
@@ -151,7 +151,7 @@ def shell(path, title, desc, body, active="", base="", image=None, extra_head=""
 <div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="Menu">
 <div class="sheet-top"><a class="brand" href="{base}index.html" aria-label="{NAME}, home"><img src="{base}assets/logo-inverse.svg" alt="{NAME}" width="1597" height="257" style="block-size:32px"></a><button class="ib sheet-close" type="button" aria-label="Close menu">{ic("close")}</button></div>
 <nav aria-label="All sections">{sheet}</nav>
-<div class="sheet-foot"><a href="{base}about.html">About</a><a href="{base}about.html#standards">Standards</a><a href="{base}contact.html">Contact</a><a href="{base}brand.html">Identity</a></div>
+<div class="sheet-foot"><a href="{base}about.html">About</a><a href="{base}standards.html">Standards</a><a href="{base}privacy.html">Privacy</a><a href="{base}contact.html">Contact</a><a href="{base}brand.html">Identity</a></div>
 </div>
 <main id="main">
 {body}
@@ -159,9 +159,9 @@ def shell(path, title, desc, body, active="", base="", image=None, extra_head=""
 <footer class="foot"><div class="vine" aria-hidden="true"></div><div class="wrap">
 <div class="foot-big"><a href="{base}index.html" aria-label="{NAME}, home"><img src="{base}assets/logo-inverse.svg" alt="{NAME}" width="1597" height="257" loading="lazy"></a><p>The news of the day, the context behind it, and the stories of the people who live it.</p></div>
 <div class="foot-grid">
-<div><h3><i class="lf a-now" style="color:var(--red-n)"></i>Places</h3><ul><li><a href="{base}gaza.html">Gaza</a></li><li><a href="{base}west-bank.html">West Bank</a></li><li><a href="{base}jerusalem.html">Jerusalem</a></li><li><a href="{base}diaspora.html">Diaspora</a></li></ul></div>
-<div><h3><i class="lf" style="color:var(--green-n)"></i>Read</h3><ul><li><a href="{base}solidarity.html">Solidarity</a></li><li><a href="{base}analysis.html">Analysis</a></li><li><a href="{base}explained.html">Explained</a></li><li><a href="{base}discover.html">Discover</a></li></ul></div>
-<div><h3><i class="lf" style="color:#fff"></i>The Times</h3><ul><li><a href="{base}about.html">About us</a></li><li><a href="{base}about.html#standards">Editorial standards</a></li><li><a href="{base}contact.html">Contact</a></li><li><a href="{base}search.html">Search</a></li></ul></div>
+<div><h3><i class="lf a-now" style="color:var(--red-n)"></i>Places</h3><ul><li><a href="{base}gaza.html">Gaza</a></li><li><a href="{base}west-bank.html">West Bank</a></li><li><a href="{base}jerusalem.html">Jerusalem</a></li><li><a href="{base}diaspora.html">Diaspora</a></li><li><a href="{base}places.html">Every place</a></li></ul></div>
+<div><h3><i class="lf" style="color:var(--green-n)"></i>Read</h3><ul><li><a href="{base}solidarity.html">Solidarity</a></li><li><a href="{base}analysis.html">Analysis</a></li><li><a href="{base}explained.html">Explained</a></li><li><a href="{base}live.html">Live</a></li><li><a href="{base}discover.html">Discover</a></li><li><a href="{base}photos.html">Photos</a></li><li><a href="{base}topics.html">Topics</a></li><li><a href="{base}archive.html">Archive</a></li></ul></div>
+<div><h3><i class="lf" style="color:#fff"></i>The Times</h3><ul><li><a href="{base}about.html">About us</a></li><li><a href="{base}standards.html">Editorial standards</a></li><li><a href="{base}contact.html">Contact</a></li><li><a href="{base}privacy.html">Privacy</a></li><li><a href="{base}search.html">Search</a></li></ul></div>
 <div><h3>This prototype</h3><ul><li><a href="{base}brand.html">The identity</a></li><li><a href="{base}index.html?loader">Play the opening</a></li><li><a href="{LIVE}" rel="noopener">The current site</a></li></ul></div>
 </div>
 <div class="legal"><span>&copy; {NOW.year} {NAME}</span><span>Design prototype. Stories are sourced and linked; photographs are credited on each story.</span></div>
