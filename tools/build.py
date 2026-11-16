@@ -7,7 +7,7 @@ import collections, datetime, html, json, pathlib, re
 import brand
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-V = 1  # bump after any CSS/JS change
+V = 3  # bump after any CSS/JS change
 ED = json.loads((ROOT / "research" / "edition.json").read_text(encoding="utf-8"))
 NOW = datetime.datetime.fromisoformat(ED["now"])
 SECTIONS = ED["sections"]
@@ -112,7 +112,7 @@ def logo(height, lazy=False):
             f'<img class="logo-d" src="{{base}}assets/logo-inverse.svg" alt="{NAME}" {attr} style="block-size:{height}px">')
 
 
-def shell(path, title, desc, body, active="", base="", image=None, extra_head=""):
+def shell(path, title, desc, body, active="", base="", image=None, extra_head="", body_cls=""):
     nav = "".join(f'<a href="{base}{h}"{" aria-current=\"page\"" if h == active else ""}>{n}</a>' for h, n in NAV)
     tabs = "".join(f'<a href="{base}{h}"{" aria-current=\"page\"" if h == active else ""}>{ic(i)}{n}</a>' for h, n, i in TABS)
     sheet = "".join(f'<a href="{base}{h}">{LF}{n}</a>' for h, n in NAV + [("search.html", "Search")])
@@ -136,7 +136,7 @@ def shell(path, title, desc, body, active="", base="", image=None, extra_head=""
 <link rel="stylesheet" href="{base}assets/tp.css?v={V}">
 <script>(function(){{var d=document.documentElement;d.classList.add('js');try{{var t=localStorage.getItem('tp-theme');if(t)d.dataset.theme=t;else if(matchMedia('(prefers-color-scheme: dark)').matches)d.dataset.theme='dark';if(/[?&]loader/.test(location.search)||!sessionStorage.getItem('tp-on'))d.classList.add('boot');else if(sessionStorage.getItem('tp-nav'))d.classList.add('nav-in')}}catch(e){{}}}})()</script>
 {extra_head}</head>
-<body data-now="{NOW.isoformat()}" data-base="{base}">
+<body data-now="{NOW.isoformat()}" data-base="{base}"{f' class="{body_cls}"' if body_cls else ""}>
 <a class="skip" href="#main">Skip to the stories</a>
 <div class="veil" aria-hidden="true">{brand.mark(230)}</div>
 <div class="pagebar" aria-hidden="true"></div>
@@ -391,4 +391,6 @@ if __name__ == "__main__":
     others()
     import book
     book.main()
+    import feed
+    feed.main()
     print(len(list(ROOT.glob("*.html"))) + len(list(ROOT.glob("*/*.html"))), "pages")

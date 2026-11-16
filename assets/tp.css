@@ -383,11 +383,11 @@ mark{background:var(--green-soft);color:inherit;padding-inline:.12em;border-radi
   .sec-head{align-items:start;flex-direction:column}
   .next{grid-template-columns:1fr}
   .find{flex-direction:column}.find .btn{justify-content:center}
-  .tabs{position:fixed;inset:auto 10px calc(8px + env(safe-area-inset-bottom,0px)) 10px;z-index:55;display:grid;grid-template-columns:repeat(4,1fr);padding:5px;border-radius:10px 26px;background:color-mix(in srgb,var(--surface) 92%,transparent);backdrop-filter:blur(18px) saturate(1.5);box-shadow:0 0 0 1px var(--line),0 10px 30px rgb(25 7 7/.16)}
-  .tabs a{display:grid;justify-items:center;gap:2px;padding:7px 2px 6px;border-radius:6px 18px;font-size:12px;font-weight:600;color:var(--text-3);text-transform:lowercase}
+  .tabs{position:fixed;inset:auto 10px calc(8px + env(safe-area-inset-bottom,0px)) 10px;z-index:55;display:grid;grid-template-columns:repeat(4,1fr);padding:5px;border-radius:999px;background:color-mix(in srgb,var(--surface) 80%,transparent);backdrop-filter:blur(18px) saturate(1.5);box-shadow:0 0 0 1px var(--line),0 10px 30px rgb(25 7 7/.16)}
+  .tabs a{display:grid;justify-items:center;gap:2px;padding:7px 2px 6px;border-radius:999px;font-size:12px;font-weight:600;color:var(--text-3);text-transform:lowercase}
   .tabs a svg{inline-size:22px;block-size:22px}
-  .tabs a[aria-current]{background:var(--ink);color:#fff}
-  :root[data-theme=dark] .tabs a[aria-current]{background:#F7F4F4;color:#190707}
+  .tabs a[aria-current]{color:var(--red);font-weight:700}
+  .tabs a[aria-current] svg{stroke-width:2.2}
   .foot{padding-block-end:20px}
 }
 @media (prefers-reduced-motion:reduce){
