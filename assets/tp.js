@@ -173,8 +173,9 @@
   $$('[data-share]').forEach((b) => b.addEventListener('click', async () => {
     const label = $('span', b), was = label.textContent;
     try {
-      if (b.dataset.share === 'native' && navigator.share) await navigator.share({ title: document.title, url: location.href });
-      else { await navigator.clipboard.writeText(location.href); label.textContent = 'Link copied'; setTimeout(() => { label.textContent = was; }, 1800); }
+      const url = b.dataset.url ? new URL(b.dataset.url, location.href).href : location.href;
+      if (b.dataset.share === 'native' && navigator.share) await navigator.share({ title: b.dataset.title || document.title, url });
+      else { await navigator.clipboard.writeText(url); label.textContent = 'Link copied'; setTimeout(() => { label.textContent = was; }, 1800); }
     } catch (e) {}
   }));
 })();
